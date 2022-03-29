@@ -17,11 +17,11 @@ public abstract class BaseMenu<T> : BaseMenu where T : BaseMenu<T>
     protected static void Open()
     {
         if (Instance == null)
-            MenuManager.Instance.CreateInstance<T>();
+            MushoodMenuManager.Instance.CreateInstance<T>();
         else
             Instance.gameObject.SetActive(true);
 
-        MenuManager.Instance.OpenMenu(Instance);
+        MushoodMenuManager.Instance.OpenMenu(Instance);
     }
 
     protected static void Close()
@@ -32,7 +32,7 @@ public abstract class BaseMenu<T> : BaseMenu where T : BaseMenu<T>
             return;
         }
 
-        MenuManager.Instance.CloseMenu(Instance);
+        MushoodMenuManager.Instance.CloseMenu(Instance);
     }
 
     public override void OnBackPressed()
