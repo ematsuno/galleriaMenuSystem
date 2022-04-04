@@ -62,7 +62,9 @@ namespace RTG
 
             // Gizmo engine
             RTGizmosEngine.Get.CanDoHoverUpdate += OnCanDoGizmoHoverUpdate;
-            RTGizmosEngine.Get.CreateSceneGizmo(RTFocusCamera.Get.TargetCamera);
+            var sceneGizmo = RTGizmosEngine.Get.CreateSceneGizmo(RTFocusCamera.Get.TargetCamera);
+            //disable Scene gizmo
+            sceneGizmo.SetEnabled(false);
             RTGizmosEngine.Get.AddRenderCamera(RTFocusCamera.Get.TargetCamera);
 
             RTMeshCompiler.CompileEntireScene();
@@ -95,7 +97,7 @@ namespace RTG
             }
         }
 
-        #if UNITY_EDITOR
+#if UNITY_EDITOR
         [MenuItem("Tools/Runtime Transform Gizmos/Initialize")]
         public static void Initialize()
         {
@@ -134,7 +136,7 @@ namespace RTG
             foreach (var moduleType in allModuleTypes)
             {
                 var allModulesInScene = MonoBehaviour.FindObjectsOfType(moduleType);
-                foreach(var module in allModulesInScene)
+                foreach (var module in allModulesInScene)
                 {
                     MonoBehaviour moduleMono = module as MonoBehaviour;
                     if (moduleMono != null) DestroyImmediate(moduleMono.gameObject);
@@ -146,11 +148,11 @@ namespace RTG
         {
             return new Type[]
             {
-                typeof(RTGApp), typeof(RTFocusCamera), typeof(RTCameraBackground), 
-                typeof(RTScene), typeof(RTSceneGrid), 
+                typeof(RTGApp), typeof(RTFocusCamera), typeof(RTCameraBackground),
+                typeof(RTScene), typeof(RTSceneGrid),
                 typeof(RTInputDevice), typeof(RTUndoRedo), typeof(RTGizmosEngine),
             };
         }
-        #endif
+#endif
     }
 }
