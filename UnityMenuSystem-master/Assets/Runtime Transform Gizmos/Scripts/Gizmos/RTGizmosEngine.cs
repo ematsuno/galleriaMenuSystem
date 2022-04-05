@@ -124,10 +124,10 @@ namespace RTG
         public UniversalGizmoHotkeys UniversalGizmoHotkeys { get { return _universalGizmoHotkeys; } }
         public ObjectTransformGizmoSettings ObjectUniversalGizmoSettings { get { return _objectUniversalGizmoSettings; } }
 
-        #if UNITY_EDITOR
+#if UNITY_EDITOR
         public EditorToolbar MainToolbar { get { return _mainToolbar; } }
         public UniversalGizmoConfig UniversalGizmoConfig { get { return _universalGizmoConfig; } }
-        #endif
+#endif
 
         public void AddRenderCamera(Camera camera)
         {
@@ -329,7 +329,7 @@ namespace RTG
                 //       over to the UI. In that case, if we don't reset the hovered info, the gizmo
                 //       will be affected by mouse movements when interacting with the UI.
                 _hoveredGizmo = null;
-                _gizmoHoverInfo.Reset();    
+                _gizmoHoverInfo.Reset();
             }
 
             bool isDeviceInsideFocusCamera = deviceHasPointer && RTFocusCamera.Get.IsViewportHoveredByDevice(); //RTFocusCamera.Get.TargetCamera.pixelRect.Contains(inputDevicePos);
@@ -378,7 +378,7 @@ namespace RTG
             var hoverDataCollection = gizmo.GetAllHandlesHoverData(hoverRay);
 
             Vector3 screenRayOrigin = focusCamera.WorldToScreenPoint(hoverRay.origin);
-            hoverDataCollection.Sort(delegate(GizmoHandleHoverData h0, GizmoHandleHoverData h1)
+            hoverDataCollection.Sort(delegate (GizmoHandleHoverData h0, GizmoHandleHoverData h1)
             {
                 var handle0 = gizmo.GetHandleById_SystemCall(h0.HandleId);
                 var handle1 = gizmo.GetHandleById_SystemCall(h1.HandleId);
@@ -439,7 +439,7 @@ namespace RTG
             {
                 Vector3 camPos = RenderStageCamera.transform.position;
                 var sortedGizmos = new List<Gizmo>(_gizmos);
-                sortedGizmos.Sort(delegate(Gizmo g0, Gizmo g1)
+                sortedGizmos.Sort(delegate (Gizmo g0, Gizmo g1)
                 {
                     float d0 = (g0.Transform.Position3D - camPos).sqrMagnitude;
                     float d1 = (g1.Transform.Position3D - camPos).sqrMagnitude;
@@ -470,14 +470,14 @@ namespace RTG
             if (hoverDataCollection.Count == 0) return;
 
             Ray hoverRay = hoverDataCollection[0].HoverRay;
-            hoverDataCollection.Sort(delegate(GizmoHandleHoverData h0, GizmoHandleHoverData h1)
+            hoverDataCollection.Sort(delegate (GizmoHandleHoverData h0, GizmoHandleHoverData h1)
             {
                 // Same dimensions?
                 bool sameDims = (h0.HandleDimension == h1.HandleDimension);
                 if (sameDims)
                 {
                     // 2D dimension?
-                    if(h0.HandleDimension == GizmoDimension.Dim2D)
+                    if (h0.HandleDimension == GizmoDimension.Dim2D)
                     {
                         // If the gizmo 2D hover priorities are equal, we sort by distance from input device position. 
                         // Otherwise, we sort by priority.

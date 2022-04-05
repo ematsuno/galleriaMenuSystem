@@ -86,12 +86,26 @@ public class GizmosManager : MonoBehaviour
         res.SetIsAffectedByHandle(GizmoHandleId.CamZRotation, false);
         res.SetIsAffectedByHandle(GizmoHandleId.CamXYRotation, false);
 
+        var rLook = objectRotationGizmo.Gizmo.RotationGizmo.LookAndFeel3D;
+        rLook.SetAxisVisible(0, false);
+        rLook.SetAxisVisible(2, false);
+        rLook.SetCamLookSliderVisible(false);
+        rLook.SetAxisBorderColor(1, Color.red);
+
         objectRotationGizmo.RegisterObjectRestrictions(cubeObject, res);
+
+
+        var sLook = objectScaleGizmo.Gizmo.ScaleGizmo.LookAndFeel3D;
+        sLook.SetPositiveCapVisible(0, false);
+        sLook.SetPositiveCapVisible(1, false);
+        sLook.SetPositiveCapVisible(2, false);
+        sLook.SetPositiveSliderVisible(0, false);
+        sLook.SetPositiveSliderVisible(1, false);
+        sLook.SetPositiveSliderVisible(2, false);
 
 
 
         objectMoveGizmo.Gizmo.PostDragUpdate += Gizmo_PostDragUpdatePos;
-        objectMoveGizmo.Gizmo.PostDragEnd += Gizmo_PostDragEnd;
         objectRotationGizmo.Gizmo.PostDragUpdate += Gizmo_PostDragUpdateRotate;
         objectScaleGizmo.Gizmo.PostDragUpdate += Gizmo_PostDragUpdateScale;
 
@@ -114,11 +128,6 @@ public class GizmosManager : MonoBehaviour
 
     }
 
-    private void Gizmo_PostDragEnd(Gizmo gizmo, int handleId)
-    {
-        //objectMoveGizmo.Gizmo.SetEnabled(false);
-        //objectMoveGizmo.Gizmo.SetEnabled(true);
-    }
 
     private void Gizmo_PostDragUpdateScale(Gizmo gizmo, int handleId)
     {
@@ -191,8 +200,6 @@ public class GizmosManager : MonoBehaviour
 
         cubeObject.transform.position = new Vector3(xSlider.value, ySlider.value, zSlider.value);
 
-
-
     }
 
     void Update()
@@ -238,9 +245,7 @@ public class GizmosManager : MonoBehaviour
 
         if (slider.value <= slider.minValue || slider.value >= slider.maxValue)
         {
-
-            StartCoroutine(ObjectMoveGizmo());
-
+            objectMoveGizmo.Gizmo.Transform.Position3D = objectMoveGizmo.GetTargetObjectGroupWorldAABB().Center;
         }
 
     }
@@ -306,7 +311,6 @@ public class GizmosManager : MonoBehaviour
     private void OnDisable()
     {
         objectMoveGizmo.Gizmo.PostDragUpdate -= Gizmo_PostDragUpdatePos;
-        objectMoveGizmo.Gizmo.PostDragEnd -= Gizmo_PostDragEnd;
 
         objectRotationGizmo.Gizmo.PostDragUpdate -= Gizmo_PostDragUpdateRotate;
         objectScaleGizmo.Gizmo.PostDragUpdate -= Gizmo_PostDragUpdateScale;

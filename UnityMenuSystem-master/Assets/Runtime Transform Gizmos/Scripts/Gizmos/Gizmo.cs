@@ -144,7 +144,7 @@ namespace RTG
 
                 _isEnabled = false;
 
-                foreach (var behaviour in _behaviours) 
+                foreach (var behaviour in _behaviours)
                     if (behaviour.IsEnabled) behaviour.OnGizmoDisabled();
 
                 if (PostDisabled != null) PostDisabled(this);
@@ -174,8 +174,8 @@ namespace RTG
             if (behaviour == null || behaviour.Gizmo != null) return false;
 
             GizmoBehaviorInitParams initParams = new GizmoBehaviorInitParams();
-            initParams.Gizmo = this;      
-         
+            initParams.Gizmo = this;
+
             behaviour.Init_SystemCall(initParams);
             if (!_behaviours.Add(behaviour)) return false;
 
@@ -195,7 +195,7 @@ namespace RTG
 
         public bool RemoveBehaviour(IGizmoBehaviour behaviour)
         {
-            if (behaviour == null ) return false;
+            if (behaviour == null) return false;
 
             if (behaviour == _moveGizmo) _moveGizmo = null;
             else if (behaviour == _rotationGizmo) _rotationGizmo = null;
@@ -207,7 +207,7 @@ namespace RTG
             return _behaviours.Remove(behaviour);
         }
 
-        public List<BehaviourType> GetBehavioursOfType<BehaviourType>() 
+        public List<BehaviourType> GetBehavioursOfType<BehaviourType>()
             where BehaviourType : class, IGizmoBehaviour
         {
             return _behaviours.GetBehavioursOfType<BehaviourType>();
@@ -238,8 +238,8 @@ namespace RTG
         {
             if (!IsEnabled) return;
 
-            foreach (var behaviour in _behaviours) 
-                if(behaviour.IsEnabled) behaviour.OnGUI();
+            foreach (var behaviour in _behaviours)
+                if (behaviour.IsEnabled) behaviour.OnGUI();
         }
 
         public void OnUpdateBegin_SystemCall()
@@ -331,8 +331,8 @@ namespace RTG
             if (SceneGizmo == null && isSceneGizmoCamera) return;
             else if (SceneGizmo != null && !isSceneGizmoCamera) return;
 
-            foreach (var behaviour in _behaviours) 
-                if(behaviour.IsEnabled) behaviour.OnGizmoRender(camera);
+            foreach (var behaviour in _behaviours)
+                if (behaviour.IsEnabled) behaviour.OnGizmoRender(camera);
         }
 
         public void HandleInputDeviceEvents_SystemCall()
@@ -352,7 +352,7 @@ namespace RTG
                 if (PreHandlePicked != null) PreHandlePicked(this, _hoveredHandle.Id);
                 foreach (var behaviour in _behaviours)
                 {
-                    if(behaviour.IsEnabled)
+                    if (behaviour.IsEnabled)
                         behaviour.OnGizmoHandlePicked(_hoveredHandle.Id);
                 }
                 if (PostHandlePicked != null) PostHandlePicked(this, _hoveredHandle.Id);
@@ -363,7 +363,7 @@ namespace RTG
 
         private void OnInputDevicePickButtonUp()
         {
-            EndDragSession();      
+            EndDragSession();
         }
 
         private void EndDragSession()
@@ -391,7 +391,7 @@ namespace RTG
             {
                 if (_activeDragSession != null && _activeDragSession.IsActive)
                 {
-                    if(_activeDragSession.Update())
+                    if (_activeDragSession.Update())
                     {
                         _dragInfo.TotalOffset = _activeDragSession.TotalDragOffset;
                         _dragInfo.RelativeOffset = _activeDragSession.RelativeDragOffset;
