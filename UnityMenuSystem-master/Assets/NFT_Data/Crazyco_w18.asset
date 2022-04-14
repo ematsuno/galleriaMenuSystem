@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Crazyco_w18
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 'Crazy Cow #10/18 '
+    externalUrl: https://stratisphere.com/asset/CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU/556
+    image: https://stratispheremetadata.blob.core.windows.net/image/3b40b72de580785b5a53b9feb5cf3ee996d8bc81bb96b9edee0b95f90f3e21e6
+    name: 'Crazy Cow #10/18 '
+  ContractHash: CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU
+  MarketURL: 
+  TokenID: 556
+  NftType: 0
+  OwnerAddress: CbVYEkBnexprTNHz4FtUJM9dGiTh7Pf48G
+  Collection: 
+  Price: 200
+  Currency: CRS
+  TransactionCode: '{"eventId":"f72279ae-148c-4263-bd9b-3c73c1b90b79","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":200,"method":"Buy","parameters":[{"label":"Contract","value":"9#CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU"},{"label":"Token
+    Id","value":"12#556"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=f72279ae-148c-4263-bd9b-3c73c1b90b79"}'
+  History: []

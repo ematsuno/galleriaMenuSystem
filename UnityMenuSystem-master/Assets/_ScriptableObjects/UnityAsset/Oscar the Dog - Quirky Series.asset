@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 215949c00a27be4498582598a8c47b1d, type: 3}
+  m_Name: Oscar the Dog - Quirky Series
+  m_EditorClassIdentifier: 
+  itemType: 1
+  Key: 
+  Title: 'Oscar the Dog - Quirky Series '
+  Summary: Cute Low Poly Cartoon Dog
+  Details: "\u2714\uFE0F One (1) animal asset\r\n\r\n\u2714\uFE0F Tiny 8x1 px texture
+    [diffuse map only]\r\n\r\n\u2714\uFE0F Rigged/Skeleton\r\n\r\n\u2714\uFE0F 12
+    animations + 2 idle variation\r\n\r\n\u2714\uFE0F 4 Levels of Detail [min 300
+    up to 9k tris]\r\n\r\n\u2714\uFE0F Mobile, AR/VR ready\r\n\r\nAnimations:\r\n\r\nIdle
+    + 2 variations | Walk | Run | Jump\r\n\r\nSwim/Fly | Roll | Bounce | Spin\r\n\r\nMunch/Peck
+    | Clicked | Fear | Death"
+  Publisher: Omabuarts Studio
+  Author: omabuarts@gmail.com
+  URL: https://shareasale.com/r.cfm?b=1272560&u=2708118&m=84042&urllink=sketchfab%2Ecom%2F3d%2Dmodels%2Foscar%2Dthe%2Ddog%2Dquirky%2Dseries%2Df44eb6c24974405eb2243d34d39324dd&afftrack=
+  VideoURL: 
+  SketchFabURL: https://shareasale.com/r.cfm?b=1272560&u=2708118&m=84042&urllink=sketchfab%2Ecom%2F3d%2Dmodels%2Foscar%2Dthe%2Ddog%2Dquirky%2Dseries%2Df44eb6c24974405eb2243d34d39324dd&afftrack=
+  DemoURL: 
+  AffiliateID: 
+  Price: 4.99
+  SalePrice: 4.99
+  galleryItemPreviewObjs:
+  - Name: Dog
+    Item: {fileID: 3048085126389450983, guid: 9b64656666913694c8ea38034e555861, type: 3}
+    scaleFactor: 200

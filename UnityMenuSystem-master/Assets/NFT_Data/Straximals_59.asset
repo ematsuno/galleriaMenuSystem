@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Straximals_59
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 'Straximals #59 - Collection of animals on the Cirrus/ Stratis Blockchain  '
+    externalUrl: https://stratisphere.com/asset/CebzzrcSqWchzR35sdyiYRgNroEvxXuWmW/59
+    image: https://ik.imagekit.io/wdka4kz1xlo/IMG_0340_g3vpq5ueK.GIF?ik-sdk-version=javascript-1.4.3&updatedAt=1645349374373
+    name: Straximals 59
+  ContractHash: CebzzrcSqWchzR35sdyiYRgNroEvxXuWmW
+  MarketURL: 59
+  TokenID: 0
+  NftType: 0
+  OwnerAddress: CZ6Q5P1EJbLNJWtg2pgDRPvBcHBDR7anST
+  Collection: Straximals
+  Price: 75
+  Currency: CRS
+  TransactionCode: '{"eventId":"500c9a64-4183-4439-89f7-328012e49b70","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":75,"method":"Buy","parameters":[{"label":"Contract","value":"9#CebzzrcSqWchzR35sdyiYRgNroEvxXuWmW"},{"label":"Token
+    Id","value":"12#59"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=500c9a64-4183-4439-89f7-328012e49b70"}'
+  History: []

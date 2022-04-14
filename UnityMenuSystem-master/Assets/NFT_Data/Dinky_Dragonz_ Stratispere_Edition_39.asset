@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Dinky_Dragonz_ Stratispere_Edition_39
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: Dinky Dragonz - Stratisphere Edition
+    externalUrl: https://stratisphere.com/asset/CJgeRQ31bcTpkintywekJcTq32KLMUvM9y/39
+    image: https://dinkydragonz.com/Stratisphere/119.png
+    name: 'Dinky Dragonz - Stratispere Edition '
+  ContractHash: CJgeRQ31bcTpkintywekJcTq32KLMUvM9y
+  MarketURL: 
+  TokenID: 39
+  NftType: 0
+  OwnerAddress: CWV23bdGtbV8n5KcmN88uhvN495eANjnBe
+  Collection: Dinky Dragonz - Stratisphere Edition
+  Price: 1000
+  Currency: CRS
+  TransactionCode: '{"eventId":"4b3207cf-5584-43e7-b6e2-477ac9b88d7d","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":1000,"method":"Buy","parameters":[{"label":"Contract","value":"9#CJgeRQ31bcTpkintywekJcTq32KLMUvM9y"},{"label":"Token
+    Id","value":"12#39"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=4b3207cf-5584-43e7-b6e2-477ac9b88d7d"}'
+  History:
+  - Event: Sold
+    SellerAddress: CfoTRPrHto7BMNwrG5Hudg8mwZvS7gPnnb
+    BuyerAdddress: CWV23bdGtbV8n5KcmN88uhvN495eANjnBe
+    Price: 50
+    Currency: CRS

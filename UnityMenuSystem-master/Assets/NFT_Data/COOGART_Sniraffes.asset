@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: COOGART_Sniraffes
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 'Exclusive Drizzy Girake, Part of the Limited Sniraffe Collection  '
+    externalUrl: https://stratisphere.com/asset/CZvhLZr3TtdAQQM5NqEKF1YkVMiMSPfKgK/18
+    image: https://i.ibb.co/LnzkLG9/D0-ADC43-F-1-CF0-427-F-A64-B-A5096-E4-EAEB5.jpg
+    name: 'COOGART : Sniraffes #18'
+  ContractHash: CZvhLZr3TtdAQQM5NqEKF1YkVMiMSPfKgK
+  MarketURL: 
+  TokenID: 18
+  NftType: 0
+  OwnerAddress: CL1GuqpQ7uSLMwC25Jd7juRMQdCLjyXsrh
+  Collection: ' COOGART : Sniraffes'
+  Price: 500
+  Currency: CRS
+  TransactionCode: '{"eventId":"d5adb863-4adb-4f64-b9de-b2524ff959fc","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":500,"method":"Buy","parameters":[{"label":"Contract","value":"9#CZvhLZr3TtdAQQM5NqEKF1YkVMiMSPfKgK"},{"label":"Token
+    Id","value":"12#18"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=d5adb863-4adb-4f64-b9de-b2524ff959fc"}'
+  History: []

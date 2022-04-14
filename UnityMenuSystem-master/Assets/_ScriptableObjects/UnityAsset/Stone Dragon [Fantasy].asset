@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 215949c00a27be4498582598a8c47b1d, type: 3}
+  m_Name: Stone Dragon [Fantasy]
+  m_EditorClassIdentifier: 
+  itemType: 1
+  Key: 
+  Title: Stone Dragon [Fantasy]
+  Summary: 
+  Details: "A stone dragon, for fantasy, MMO and RPG worlds. Rigged, animations and
+    hand-painted textures.\r\n\r\n\u25FC Key Features \u25FC\r\n\r\nOne model, two
+    submeshes.\r\n5500 triangles.\r\nFully rigged.\r\nAnimations: standing x2, walk,
+    run, death, attacks x8.\r\nTextures: two diffuse (512).\r\n\u25FC Compatibility
+    \u25FC\r\n\r\nUnity 2019.4 and above.\r\nBuilt-in, URP and HDRP.\r\nMobile friendly."
+  Publisher: 
+  Author: Art Coding
+  URL: https://shareasale.com/r.cfm?b=1272560&u=2708118&m=84042&urllink=sketchfab%2Ecom%2F3d%2Dmodels%2Fstone%2Ddragon%2Dfantasy%2D885db972dc5049e4a6156c2c68bc8d3e&afftrack=
+  VideoURL: 
+  SketchFabURL: https://shareasale.com/r.cfm?b=1272560&u=2708118&m=84042&urllink=sketchfab%2Ecom%2F3d%2Dmodels%2Fstone%2Ddragon%2Dfantasy%2D885db972dc5049e4a6156c2c68bc8d3e&afftrack=
+  DemoURL: 
+  AffiliateID: 
+  Price: 10
+  SalePrice: 0
+  galleryItemPreviewObjs:
+  - Name: Stone Dragon
+    Item: {fileID: 6276054091183877595, guid: 4fe325023e606ee459947bf4ba9ef90b, type: 3}
+    scaleFactor: 100
+    relativePosition: {x: 0, y: 0, z: 0}

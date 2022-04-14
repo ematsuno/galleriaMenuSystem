@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 215949c00a27be4498582598a8c47b1d, type: 3}
+  m_Name: SciFiWarriorPBRHPPolyart
+  m_EditorClassIdentifier: 
+  itemType: 0
+  Key: 
+  Title: Sci Fi Warrior PBR HP Polyart
+  Summary: Various animations(16) fully compatible with Mecanim Humanoid
+  Details: 'FEATURES
+
+    - Optimized for mobile games(low poly) and one 2K texture
+    atlas for all parts(For Polyart, 512x512 texture).
+
+    - Various animations(16)
+    fully compatible with Mecanim Humanoid.
+
+    - Handpainted, PBR, Polyart textures
+    provided.
+
+    Polycount
+
+    - About 4500 tris with all parts and weapons together.
+
+
+
+    Animation
+    List
+
+    - Idle(Shoot, Guard, Ducking, Gun Middle)
+
+    - Attack(Single shot,
+    Burst shot, Auto shot, Reload)
+
+    - Movement(run, GunMiddle Run, walk, side
+    walks, back walk)
+
+    - Die, Jump
+
+
+
+    Dungeon Mason proudly presents you
+    Sci-Fi Warrior PBR HP Polyart. This light weight units will be suitable for any
+    of your game projects spanning from mobile to PC desktop, but especially good
+    for mobile FPS and TPS and Top down shooter game development.'
+  Publisher: Dungeon Mason
+  Author: Dungeon Mason
+  URL: https://prf.hn/click/camref:1101l9tgp/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2F3d%2Fcharacters%2Frobots%2Fsci-fi-warrior-pbr-hp-polyart-106154
+  VideoURL: https://www.youtube.com/watch?v=kzPq91yqZEI
+  VideoURLs:
+  - https://www.youtube.com/watch?v=kzPq91yqZEI
+  SketchFabURL: 
+  DemoURL: 
+  AffiliateID: 
+  Price: 0
+  SalePrice: 0
+  galleryItemPreviewObjs:
+  - Name: HP Character 1
+    Item: {fileID: 7408960913589319507, guid: 3d06303bd7eae1942be1ca2f5afd7c9f, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: -200, z: 0}
+    isTouchEnabled: 0

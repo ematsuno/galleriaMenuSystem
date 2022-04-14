@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 215949c00a27be4498582598a8c47b1d, type: 3}
+  m_Name: SamanthaCyberpunkGirl
+  m_EditorClassIdentifier: 
+  itemType: 0
+  Key: 
+  Title: Samantha - Cyberpunk Girl
+  Summary: 'The model has a humanoid skeleton and works perfectly with mecanim.  '
+  Details: 'The model has a humanoid skeleton and works perfectly with mecanim.
+
+    The
+    model has 5 texture sets. The body is a single mesh. Hair is separated.
+
+
+
+    Hair
+    has bones with tuned physics through joints.
+
+
+
+    You can configurate joints
+    and collisions like you want. Video with examples of hair physics below.
+
+
+
+    PBR
+    materials
+
+    Albedo
+
+    MetallicSmoothness
+
+    Normal
+
+    AO
+
+    Emission
+
+    Texture
+    Resolutions:
+
+    Body and hair 4096x4096
+
+    Other parts 512x512
+
+    Vertex
+    counts of characters: 24 864
+
+    Triangles: 45 246
+
+    Documentation: Use double-sided
+    shader for eyelashes (included).'
+  Publisher: Anatoly Arkhipov
+  Author: Anatoly Arkhipov
+  URL: https://prf.hn/click/camref:1101l9tgp/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2F3d%2Fcharacters%2Fsamantha-cyberpunk-girl-184062
+  VideoURL: https://www.youtube.com/watch?v=3Js4FOa0k7E
+  VideoURLs:
+  - https://www.youtube.com/watch?v=3Js4FOa0k7E
+  - https://youtu.be/pKiAF9j3aAI
+  SketchFabURL: 
+  DemoURL: 
+  AffiliateID: 
+  Price: 29.99
+  SalePrice: 29.99
+  galleryItemPreviewObjs:
+  - Name: Samantha Red
+    Item: {fileID: 434184434502115936, guid: d10454797951c9e47bfce6fdf9056af6, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: 0, z: 0}
+    isTouchEnabled: 0

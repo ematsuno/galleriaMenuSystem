@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Data 12
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 'Opdex Spectrum '
+    externalUrl: https://stratisphere.com/asset/CJvex9eYXJu98CUh72d3EXXhbkTX1Sto7w/34
+    image: https://opdex-spectrum.mypinata.cloud/ipfs/QmaDSouoUEyiD8ho7ANrvMvLxfDPHsfU2eHFeTqosRfWs3/opdex_spectrum_034.jpg
+    name: 'Opdex Spectrum '
+  ContractHash: CJvex9eYXJu98CUh72d3EXXhbkTX1Sto7w
+  MarketURL: 
+  TokenID: 34
+  NftType: 0
+  OwnerAddress: CcxF3YCeqxa8sJyTWrjBsQV2f9LSqfG17A
+  Collection: 
+  Price: 50
+  Currency: CRS
+  TransactionCode: '{"eventId":"d985d67a-a32d-4dbc-9b74-c1ef9fac5a6b","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":50,"method":"Buy","parameters":[{"label":"Contract","value":"9#CJvex9eYXJu98CUh72d3EXXhbkTX1Sto7w"},{"label":"Token
+    Id","value":"12#34"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=d985d67a-a32d-4dbc-9b74-c1ef9fac5a6b"}'
+  History: []

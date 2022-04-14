@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 215949c00a27be4498582598a8c47b1d, type: 3}
+  m_Name: Cyberpunk - Cyber Car
+  m_EditorClassIdentifier: 
+  itemType: 1
+  Key: 
+  Title: Cyberpunk - Cyber Car
+  Summary: 
+  Details: "This pack includes:\r\n\n\u25CF flying car with 9 skins (cyber car, black,
+    black dirty, green, green dirty, white, white dirty, red, red dirty);\r\n\u25CF
+    dynamic power-electric lines (works with any GameObject with collider), adjustable
+    distance, width;\r\n\u25CF modular, removable external engines (2 types);\r\n\u25CF
+    modular animated flashing flashers;\r\n\u25CF removable gun;\r\n\u25CF gun fire
+    effect;\r\n\u25CF car interior;\r\n\u25CF 4K textures for PBR materials;\r\n\u25CF
+    flashing (see video);\r\n\u25CF 10K triangles;\r\n\u25CF modular engines, removable
+    gun compatible with wheeled car from Cyber City.\r\n\r\nNote: Car without openable
+    doors."
+  Publisher: 
+  Author: ' IL.ranch'
+  URL: https://prf.hn/click/camref:1101l9tgp/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2F3d%2Fvehicles%2Fland%2Fcyberpunk-cyber-car-115376
+  VideoURL: https://youtu.be/D8frEM3Mak4
+  VideoURLs:
+  - https://youtu.be/D8frEM3Mak4
+  SketchFabURL: 
+  DemoURL: 
+  AffiliateID: 
+  Price: 5.55
+  SalePrice: 0
+  galleryItemPreviewObjs:
+  - Name: Cyber Car
+    Item: {fileID: 1726384431346900859, guid: 47a25c1221b39f74db8408a87c88a4ed, type: 3}
+    scaleFactor: 80
+    relativePosition: {x: 0, y: 0, z: 0}
+    isTouchEnabled: 0

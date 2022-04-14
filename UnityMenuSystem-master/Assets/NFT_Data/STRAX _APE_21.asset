@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: STRAX _APE_21
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 'A COLLECTION OF 666 STRAX APES  '
+    externalUrl: https://stratisphere.com/asset/CaWb73GbWp1gSz1PXNyY8xGWiwwbFYjwm1/21
+    image: https://stratispheremetadata.blob.core.windows.net/image/fc1e10be8c1e99015fd2c85dc992e44efe430d3c881bebbb3c3adabff5ca6dd8
+    name: STRAX APE #21
+  ContractHash: CaWb73GbWp1gSz1PXNyY8xGWiwwbFYjwm1
+  MarketURL: 
+  TokenID: 21
+  NftType: 0
+  OwnerAddress: CSprNxDiBb5GytVkGiiUmkxRpVWoGLgSdZ
+  Collection: Strax Ape Club
+  Price: 15
+  Currency: CRS
+  TransactionCode: '{"eventId":"a28cd5ad-3f97-4b47-963b-df171cd5ab38","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":15,"method":"Buy","parameters":[{"label":"Contract","value":"9#CaWb73GbWp1gSz1PXNyY8xGWiwwbFYjwm1"},{"label":"Token
+    Id","value":"12#21"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=a28cd5ad-3f97-4b47-963b-df171cd5ab38"}'
+  History: []

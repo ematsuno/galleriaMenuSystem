@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 215949c00a27be4498582598a8c47b1d, type: 3}
+  m_Name: LowPolyCityPack
+  m_EditorClassIdentifier: 
+  itemType: 1
+  Key: 
+  Title: LOW POLY - City Pack
+  Summary: Dozens of Characters, Cars and Props to choose from!
+  Details: "Features:\r\n\r\n- High Quality Models\r\n- 100% Optimized\r\n- Demo
+    Scene Included\r\n- Dozens of Characters, Cars and Props to choose from!\r\n\r\n\rPack
+    Includes:\r\n\r\n- 15 Characters\r\n- 18 Vehicles\r\n- 25 Buildings\r\n- 10 Types
+    Of Foilage\r\n- 15 Road Tiles (Modular)\r\n- 20 Props\r\n- 3 Clouds\r\n- 5 Background
+    mountains\r\n\r\r\nIn our most ambitious pack yet we have created a beautiful
+    modular low poly city pack including everything you will need to create your
+    next city based game. The pack includes Characters, Props, Modular road system,
+    Vehicles and even clouds and background mountains!\r\n\r\r\nIn addition this
+    pack is 100% optimized and designed to work with all the different mobile platforms!"
+  Publisher: 
+  Author: 
+  URL: https://prf.hn/click/camref:1101l9tgp/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2F3d%2Fenvironments%2Furban%2Flow-poly-city-pack-168435
+  VideoURL: https://www.youtube.com/watch?v=4SaF2NBNb0Q
+  SketchFabURL: 
+  DemoURL: 
+  AffiliateID: 
+  Price: 9.99
+  SalePrice: 4.99
+  galleryItemPreviewObjs:
+  - Name: Bank 01
+    Item: {fileID: 1339574149384104, guid: 6282db5672a91424c8b41545de202dff, type: 3}
+    scaleFactor: 20
+    relativePosition: {x: 300, y: -90, z: 0}
+  - Name: Factory 01
+    Item: {fileID: 1245897084978602, guid: 9e6a00fee872d724baf72a3801b18453, type: 3}
+    scaleFactor: 20
+    relativePosition: {x: 0, y: 0, z: 0}
+  - Name: Hotel 01
+    Item: {fileID: 1349298338512938, guid: 4fae1a78a90334b4dade6497e5145a30, type: 3}
+    scaleFactor: 20
+    relativePosition: {x: 0, y: 0, z: 0}
+  - Name: Car Sport 01
+    Item: {fileID: 1960956599753514, guid: c2b06e1d77d857b41928acc130705178, type: 3}
+    scaleFactor: 20
+    relativePosition: {x: 0, y: 0, z: 0}
+  - Name: Garbage Truck
+    Item: {fileID: 1618495793413164, guid: 44f594bbf56cc6b4d9ae6fae2092f903, type: 3}
+    scaleFactor: 20
+    relativePosition: {x: 0, y: 0, z: 0}
+  - Name: Businessman 01
+    Item: {fileID: 1911729502818434, guid: c59794d5c776fa545bd4a5980abfb03d, type: 3}
+    scaleFactor: 20
+    relativePosition: {x: 0, y: 0, z: 0}
+  - Name: Female Stylish
+    Item: {fileID: 1018028957905386, guid: d74e2546b37148e40893ba1a4e237ac0, type: 3}
+    scaleFactor: 20
+    relativePosition: {x: 0, y: 0, z: 0}
+  - Name: Mountain 01
+    Item: {fileID: 1123594470164288, guid: a2b05389ffc83ec4586567069bea1e89, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: 0, z: 0}
+  - Name: Flowers 01
+    Item: {fileID: 1260573439626576, guid: 5a809355befe47648982d31ed34d9b64, type: 3}
+    scaleFactor: 20
+    relativePosition: {x: 0, y: 0, z: 0}
+  - Name: 
+    Item: {fileID: 0}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: 0, z: 0}
+  - Name: Mailbox 01
+    Item: {fileID: 1584044170608538, guid: a8f728765de1419478a94c3ac89a6ae0, type: 3}
+    scaleFactor: 20
+    relativePosition: {x: 0, y: 0, z: 0}
+  - Name: Tree 03
+    Item: {fileID: 1425960365682806, guid: 20d28f1cc13d7b24e8dad78033f2afe7, type: 3}
+    scaleFactor: 20
+    relativePosition: {x: 0, y: 0, z: 0}

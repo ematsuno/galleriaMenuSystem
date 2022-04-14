@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Dogs army #90
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: Dogs army is a collection of 5000 programmatically randomly generated
+      NFTs on the Stratis blockchain.
+    externalUrl: 
+    image: https://ik.imagekit.io/2ech24wwpg1/570f1e3ad69ff7e4f2cf0db72e1c7eb8aed7ea3b079dc90c5e702ef105fcdafc
+    name: Dogs army #90
+  Contract: tVJZQ9e79QAJMrmrBkqsyCVDHozQkYu4Q2
+  MarketURL: https://nftmarketplacetest.azurewebsites.net/asset/tVJZQ9e79QAJMrmrBkqsyCVDHozQkYu4Q2/89
+  TokenID: 89
+  NftType: 0
+  OwnerAddress: tRSBw7VHkjKbJWHYNDD8hnLc8ZFNxwVjzy
+  Collection: Dog Army
+  Price: 22.57
+  Currency: CRS
+  TransactionCode: '{"eventId":"7c90d2d7-51d9-487f-86b7-dac9762b72e1","sender":"t8X27Qhr3vLNTVV9EdzJMyCnzVCDM1Q4xs","to":"tTb53U5XQBqTMvBXGfHMgzARPXcJr94X4g","amount":22.57,"method":"Buy","parameters":[{"label":"Contract","value":"9#tVJZQ9e79QAJMrmrBkqsyCVDHozQkYu4Q2"},{"label":"Token
+    Id","value":"12#89"}],"callback":"https://nftmarketplacetest.azurewebsites.net/api/contract/on-sold?userId=f72b1583-8948-41ca-b83c-ebfa62002544&eventId=7c90d2d7-51d9-487f-86b7-dac9762b72e1"}'
+  History: []

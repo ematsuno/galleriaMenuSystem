@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Astroverse_Club_Club_Pass_1025
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: A 1500 limited edition of the Astroverse Club Pass
+    externalUrl: https://stratisphere.com/asset/CdJXzoL6qQjJLaRYRCHvtkDERwYdueSd4K/1025
+    image: https://storage.stratisphere.com/collection/Astroverse%20Club%20Pass/images/946725aa-7d3c-437c-b02e-2e82328003fb.gif
+    name: The Astroverse Club - Club Pass #1025
+  ContractHash: CdJXzoL6qQjJLaRYRCHvtkDERwYdueSd4K
+  MarketURL: 
+  TokenID: 1025
+  NftType: 0
+  OwnerAddress: CQ8SD7zMh13ffv8oxpZCW9NqsCAbN7zntB
+  Collection: The Astroverse Club - Club Pass
+  Price: 300
+  Currency: CRS
+  TransactionCode: '{"eventId":"7b9deff7-d615-42df-9dd0-946479c0dd22","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":300,"method":"Buy","parameters":[{"label":"Contract","value":"9#CdJXzoL6qQjJLaRYRCHvtkDERwYdueSd4K"},{"label":"Token
+    Id","value":"12#1025"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=7b9deff7-d615-42df-9dd0-946479c0dd22"}'
+  History: []

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Straximals_24
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 'Straximals #24 - Collection of animals on the Cirrus/Stratis Blockchain  '
+    externalUrl: https://stratisphere.com/asset/CebzzrcSqWchzR35sdyiYRgNroEvxXuWmW/24
+    image: https://ik.imagekit.io/wbwczifdoa5f/image/0535b3f084065ce534dbf7831e49971b64f23e4e25bbfc90546ae6edcb8c8164
+    name: Straximals 24
+  ContractHash: CebzzrcSqWchzR35sdyiYRgNroEvxXuWmW
+  MarketURL: 
+  TokenID: 24
+  NftType: 0
+  OwnerAddress: CZ6Q5P1EJbLNJWtg2pgDRPvBcHBDR7anST
+  Collection: Straximals
+  Price: 25
+  Currency: CRS
+  TransactionCode: sid:stratisphere.com/api/login/login-callback?uid=l9igOqJdUo18tBt9Tua9QtSEXWeoXqq5alFQlsFFj4PIfeOg07i8-84lsvnGGlBZ&exp=1648838117
+  History: []

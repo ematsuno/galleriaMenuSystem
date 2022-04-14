@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Paprikaz-50
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 
+    externalUrl: https://stratisphere.com/asset/CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU/441
+    image: https://stratispheremetadata.blob.core.windows.net/image/2066c1bed6994a5b9dce7234d840dc0ae36fc40d551527c32ae037fb32a47265
+    name: Paprikaz
+  ContractHash: CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU
+  MarketURL: https://stratisphere.com/asset/CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU/441
+  TokenID: 50
+  NftType: 0
+  OwnerAddress: CePK9jwp2kCdSDHReMguumkzzcsgXZkSYs
+  Collection: No Collection
+  Price: 15
+  Currency: CRS
+  TransactionCode: 
+  History:
+  - Event: Sold
+    SellerAddress: CSKBaQD42ueBxidgSTY9EeRzAAAWWhzQdG
+    BuyerAdddress: CePK9jwp2kCdSDHReMguumkzzcsgXZkSYs
+    Price: 2
+    Currency: CRS
+  - Event: Sold
+    SellerAddress: CKUtS5AK6DM4CmkQVyskDPtNrXe8ZJ4Cy4
+    BuyerAdddress: CSKBaQD42ueBxidgSTY9EeRzAAAWWhzQdG
+    Price: 12.5
+    Currency: CRS

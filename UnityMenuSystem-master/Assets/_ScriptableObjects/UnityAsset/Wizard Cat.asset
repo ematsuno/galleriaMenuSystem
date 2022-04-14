@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 215949c00a27be4498582598a8c47b1d, type: 3}
+  m_Name: Wizard Cat
+  m_EditorClassIdentifier: 
+  itemType: 0
+  Key: 
+  Title: Wizard Cat
+  Summary: 
+  Details: 'This character was inspired by Japanese and Korean fantasy art. Hope
+    you like it :) '
+  Publisher: 
+  Author: Moonstone
+  URL: https://shareasale.com/r.cfm?b=1272560&u=2708118&m=84042&urllink=sketchfab%2Ecom%2F3d%2Dmodels%2Fwizard%2Dcat%2D50d08930b5c8459e8dcf7f53ac31fd8c&afftrack=
+  VideoURL: 
+  SketchFabURL: https://shareasale.com/r.cfm?b=1272560&u=2708118&m=84042&urllink=sketchfab%2Ecom%2F3d%2Dmodels%2Fwizard%2Dcat%2D50d08930b5c8459e8dcf7f53ac31fd8c&afftrack=
+  DemoURL: 
+  AffiliateID: 
+  Price: 25
+  SalePrice: 25
+  galleryItemPreviewObjs:
+  - Name: 
+    Item: {fileID: 6390131253509208123, guid: b0f053c81ea128a4d8bc8d9a9ecfe180, type: 3}
+    scaleFactor: 10000
+    relativePosition: {x: 0, y: -250, z: 0}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Dave Starbelly
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: Friendly OpenSea Creature that enjoys long swims in the ocean.
+    externalUrl: https://example.com/?token_id=21
+    image: https://ik.imagekit.io/2ech24wwpg1/3bb0d9ca8674be6b0bf8ee18c3e6196b5b66bb7dcdf7b1f4681df06e7c184b4e
+    name: Dave Starbelly
+  ContractHash: 
+  MarketURL: https://nftmarketplacetest.azurewebsites.net/asset/tRyezjPTrzhNpnVpL42DZQRHpLq2CSG4JC/19
+  TokenID: 11
+  NftType: 0
+  OwnerAddress: tRSBw7VHkjKbJWHYNDD8hnLc8ZFNxwVjzy
+  Collection: Dog Army
+  Price: 13.23
+  Currency: CRS
+  TransactionCode: sid:nftmarketplacetest.azurewebsites.net/api/login/login-callback?uid=XLSLXv2gKMcAd_NPodqAoDWZCrIGPkkvUkhzYkRPNcMqXZiz7XvzPqDXEgJQZKvL&exp=1644973176
+  History: []

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 215949c00a27be4498582598a8c47b1d, type: 3}
+  m_Name: Earth
+  m_EditorClassIdentifier: 
+  itemType: 1
+  Key: 
+  Title: Earth like Planets
+  Summary: Free 5 Earth like planets with highest quality textures(4096x4096)
+  Details: 'Free 5 Earth like planets with highest quality textures(4096x4096)
+
+
+
+    -
+    3 Cloud types
+
+    - Dynamic Day & Night transition
+
+    - Separate clouds with
+    shadows
+
+    - Change rotation speed of clouds & Earth
+
+    - Zoom in and out
+
+    -
+    Move camera freely in every direction
+
+
+
+'
+  Publisher: ' Adam Bielecki'
+  Author: ' Adam Bielecki'
+  URL: https://assetstore.unity.com/packages/templates/packs/earth-like-planets-32790
+  VideoURL: 
+  SketchFabURL: 
+  DemoURL: 
+  AffiliateID: 
+  Price: 0
+  SalePrice: 0
+  galleryItemPreviewObjs:
+  - Name: Earth
+    Item: {fileID: 7126163230277272117, guid: c33243ad1cff4244f960ae8b83850c14, type: 3}
+    scaleFactor: 200

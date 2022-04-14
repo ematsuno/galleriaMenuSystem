@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Dogs Army_3243
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 'The Dogs Army Collection contains 5,000 unique Dogs on the Cirrus
+      Blockchain  '
+    externalUrl: https://stratisphere.com/asset/CdH7u1m5ctfeMSFxVcJJ8VW2cdZMw97eCb/3243
+    image: https://storage.stratisphere.com/collection/Dogs%20Army/images/aed1554f-ad3c-4bfd-b957-a166224759f5.png
+    name: Dogs Army #3243
+  ContractHash: CdH7u1m5ctfeMSFxVcJJ8VW2cdZMw97eCb
+  MarketURL: 
+  TokenID: 3243
+  NftType: 0
+  OwnerAddress: CRmaMmUx8JNn6F5Nh5LXSLHeDmmBL8jBVT
+  Collection: Dogs Army
+  Price: 150
+  Currency: CRS
+  TransactionCode: '{"eventId":"46cd9052-03e0-4187-a531-29b5be702915","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":150,"method":"Buy","parameters":[{"label":"Contract","value":"9#CdH7u1m5ctfeMSFxVcJJ8VW2cdZMw97eCb"},{"label":"Token
+    Id","value":"12#3243"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=46cd9052-03e0-4187-a531-29b5be702915"}'
+  History: []

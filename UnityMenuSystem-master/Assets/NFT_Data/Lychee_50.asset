@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Lychee_50
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 'Lychee | #50  '
+    externalUrl: https://stratisphere.com/asset/CH2mosACjrzNhqzY8zrBwS2fVtqTzeW4bp/50
+    image: https://ik.imagekit.io/2Breeze/Lychee/l_50_g6JrE1wB7.jpg
+    name: 'Lychee | #50  '
+  ContractHash: CH2mosACjrzNhqzY8zrBwS2fVtqTzeW4bp
+  MarketURL: 
+  TokenID: 50
+  NftType: 0
+  OwnerAddress: CKUtS5AK6DM4CmkQVyskDPtNrXe8ZJ4Cy4
+  Collection: Lychee
+  Price: 25
+  Currency: CRS
+  TransactionCode: '{"eventId":"5c2a0339-309e-4f28-93a1-3d06cf6759e8","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":25,"method":"Buy","parameters":[{"label":"Contract","value":"9#CH2mosACjrzNhqzY8zrBwS2fVtqTzeW4bp"},{"label":"Token
+    Id","value":"12#50"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=5c2a0339-309e-4f28-93a1-3d06cf6759e8"}'
+  History: []

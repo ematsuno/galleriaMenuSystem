@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 215949c00a27be4498582598a8c47b1d, type: 3}
+  m_Name: SciFiGuns
+  m_EditorClassIdentifier: 
+  itemType: 1
+  Key: 
+  Title: Sci-Fi Guns
+  Summary: 60 low poly style sci-fi gun prefabs.
+  Details: 'Contains 60 low poly style sci-fi gun prefabs.
+
+
+
+    10 gun types with
+    6 different color skins for each.
+
+
+
+    Including:
+
+
+
+    Red
+
+    Green
+
+    Blue
+
+    Yellow
+
+    Cyan
+
+    Purple
+
+
+
+    Good
+    luck with your creations!'
+  Publisher: Astronaut
+  Author: Astronaut
+  URL: https://prf.hn/click/camref:1101l9tgp/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2F3d%2Fprops%2Fguns%2Fsci-fi-guns-88461
+  VideoURL: 
+  SketchFabURL: 
+  DemoURL: 
+  AffiliateID: 
+  Price: 4.99
+  SalePrice: 4.99
+  galleryItemPreviewObjs:
+  - Name: Blue 1
+    Item: {fileID: 1532943148097588, guid: ba61e54fa16dff04ab04e7680d163d39, type: 3}
+    scaleFactor: 200
+  - Name: Cyan 2
+    Item: {fileID: 1005449242409068, guid: 616682b0d608beb468f25c364e869a50, type: 3}
+    scaleFactor: 200
+  - Name: Green 3
+    Item: {fileID: 1216027362545984, guid: 4608c9c4ae8f30a42990e5745cb0208a, type: 3}
+    scaleFactor: 200
+  - Name: Purple 4
+    Item: {fileID: 1809821293392194, guid: 88210ec34d84d684ba942eafe72e1c51, type: 3}
+    scaleFactor: 200
+  - Name: Red 6
+    Item: {fileID: 1515056335554578, guid: 12eaf596c7469734e8ff844e6aeb51ba, type: 3}
+    scaleFactor: 200
+  - Name: Yellow 7
+    Item: {fileID: 1346314558375608, guid: f9cea47d5c7b8624b9aa7f0bf2d995dd, type: 3}
+    scaleFactor: 200

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Straliens_233
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: At the moment 250 unique straliens. Inspired by the bored apes and
+      stratis astroverse. - Mask, orbs and blue are super rare. Green is common.
+      Dark Gold is very rare. Greys and purple is uncommon Mint is rare
+    externalUrl: https://stratisphere.com/asset/CVe3XKgVgqjpXHf4Uvo5rD24V3h5AknUWd/233
+    image: https://straliens.com/nft/233.png
+    name: Straliens
+  ContractHash: CVe3XKgVgqjpXHf4Uvo5rD24V3h5AknUWd
+  MarketURL: 
+  TokenID: 233
+  NftType: 0
+  OwnerAddress: CYdiEeGbgTmYPBbdpUpyAm3xDyEddEYMK5
+  Collection: Straliens | Stratis exclusive alien collection
+  Price: 125
+  Currency: CRS
+  TransactionCode: '{"eventId":"4840e206-f5ee-4ca3-9f23-f413f8cc5567","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":125,"method":"Buy","parameters":[{"label":"Contract","value":"9#CVe3XKgVgqjpXHf4Uvo5rD24V3h5AknUWd"},{"label":"Token
+    Id","value":"12#233"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=4840e206-f5ee-4ca3-9f23-f413f8cc5567"}'
+  History:
+  - Event: Sold
+    SellerAddress: CaxSxYVyoSMoffpkMLV2CJuKZnAQ1S7rWs
+    BuyerAdddress: CYdiEeGbgTmYPBbdpUpyAm3xDyEddEYMK5
+    Price: 50
+    Currency: CRS

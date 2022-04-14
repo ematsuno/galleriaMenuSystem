@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Lychee
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: Lychee
+    externalUrl: https://stratisphere.com/asset/CH2mosACjrzNhqzY8zrBwS2fVtqTzeW4bp/12
+    image: https://ik.imagekit.io/2Breeze/Lychee/l_12_23aiMP7OA.jpg
+    name: Lychee
+  ContractHash: CH2mosACjrzNhqzY8zrBwS2fVtqTzeW4bp
+  MarketURL: 
+  TokenID: 12
+  NftType: 0
+  OwnerAddress: CS5ex5qnzAiAoZnECEC86QazrwwXKD1wFM
+  Collection: Lychee
+  Price: 50
+  Currency: CRS
+  TransactionCode: '{"eventId":"35182f4a-bc32-4f07-9da8-a432a2262d80","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":50,"method":"Buy","parameters":[{"label":"Contract","value":"9#CH2mosACjrzNhqzY8zrBwS2fVtqTzeW4bp"},{"label":"Token
+    Id","value":"12#12"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=35182f4a-bc32-4f07-9da8-a432a2262d80"}'
+  History:
+  - Event: Sold
+    SellerAddress: CKUtS5AK6DM4CmkQVyskDPtNrXe8ZJ4Cy4
+    BuyerAdddress: CS5ex5qnzAiAoZnECEC86QazrwwXKD1wFM
+    Price: 25
+    Currency: CRS

@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 19043.1586; Version 2009; 64bit' Language: 'en' Physical Memory: 16295 MB
+OS: 'Windows 10 Home; OS build 19043.1645; Version 2009; 64bit' Language: 'en' Physical Memory: 16295 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -15,11 +15,11 @@ F:/_NewUnityHome/GalleriaMenuSystem/UnityMenuSystem-master
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-54158
+52497
 Successfully changed project path to: F:/_NewUnityHome/GalleriaMenuSystem/UnityMenuSystem-master
 F:/_NewUnityHome/GalleriaMenuSystem/UnityMenuSystem-master
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 31.48 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 42.73 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.2f1 (068178b99f32)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
@@ -35,99 +35,379 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56060
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56252
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002661 seconds.
+Registered in 0.002994 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 33.14 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 35.76 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.739 seconds
+- Completed reload, in  2.954 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001062 seconds.
+Registered in 0.001158 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.126 seconds
+- Completed reload, in  1.081 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1324 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 67.4 MB.
-System memory in use after: 46.8 MB.
+Unloading 1740 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.0 MB.
+System memory in use after: 80.0 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1765.
-Total: 3.079000 ms (FindLiveObjects: 0.214100 ms CreateObjectMapping: 0.053000 ms MarkObjects: 2.704600 ms  DeleteObjects: 0.105700 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2181.
+Total: 3.000700 ms (FindLiveObjects: 0.331400 ms CreateObjectMapping: 0.100000 ms MarkObjects: 2.468200 ms  DeleteObjects: 0.099800 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/ForMushood/CustomizeItemCanvas.prefab
-  artifactKey: Guid(806d6553286c74a4eb8abd829b97bd85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ForMushood/CustomizeItemCanvas.prefab using Guid(806d6553286c74a4eb8abd829b97bd85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '969db31c92e8f5252c53fa39e7ff6f08') in 0.172573 seconds
-  Import took 0.195713 seconds .
+  path: Assets/AddNewNFTStart
+  artifactKey: Guid(9a4e3ee75f2a7ea41b46deeef6166e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddNewNFTStart using Guid(9a4e3ee75f2a7ea41b46deeef6166e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '895ead9854a9825a4176207bed0f9c8c') in 0.032443 seconds
+  Import took 0.074354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.097888 seconds.
+  path: Assets/AddNewNFTStart/ReadMe.cs
+  artifactKey: Guid(ed81b4f03543e624d8ad612b122fa1fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddNewNFTStart/ReadMe.cs using Guid(ed81b4f03543e624d8ad612b122fa1fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d36d3ced78f163f033bb618e0d4d495') in 0.057728 seconds
+  Import took 0.088199 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001319 seconds.
+Registered in 0.001386 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.431 seconds
+- Completed reload, in  1.160 seconds
 Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1703 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.6 MB.
+System memory in use after: 77.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2184.
+Total: 3.489500 ms (FindLiveObjects: 0.310100 ms CreateObjectMapping: 0.200500 ms MarkObjects: 2.923800 ms  DeleteObjects: 0.053100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.051272 seconds.
+  path: Assets/AddNewNFTStart/ReadMe.cs
+  artifactKey: Guid(ed81b4f03543e624d8ad612b122fa1fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddNewNFTStart/ReadMe.cs using Guid(ed81b4f03543e624d8ad612b122fa1fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb92acdd915b7e5a52cc4748aeecd050') in 0.034175 seconds
+  Import took 0.055440 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001649 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1709 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 77.8 MB.
-System memory in use after: 77.8 MB.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.069 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1703 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.9 MB.
+System memory in use after: 78.0 MB.
 
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2174.
-Total: 3.871800 ms (FindLiveObjects: 0.477000 ms CreateObjectMapping: 0.188200 ms MarkObjects: 2.991400 ms  DeleteObjects: 0.212900 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 1073.092847 seconds.
-  path: Assets/Specification Flowchart
-  artifactKey: Guid(263966385bc32c9459bffa5a07809440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Specification Flowchart using Guid(263966385bc32c9459bffa5a07809440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '306d9072caed354091646cebf4544f67') in 0.028621 seconds
-  Import took 0.034724 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001646 seconds.
-  path: Assets/Specification Flowchart
-  artifactKey: Guid(263966385bc32c9459bffa5a07809440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Specification Flowchart using Guid(263966385bc32c9459bffa5a07809440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '306d9072caed354091646cebf4544f67') in 0.028294 seconds
-  Import took 0.033275 seconds .
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2186.
+Total: 2.510600 ms (FindLiveObjects: 0.369900 ms CreateObjectMapping: 0.057500 ms MarkObjects: 2.066800 ms  DeleteObjects: 0.015300 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 7.489790 seconds.
-  path: Assets/Specification Flowchart/customizeItemFlow.pdf
-  artifactKey: Guid(21858eb9d26da894082f597d840da1b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Specification Flowchart/customizeItemFlow.pdf using Guid(21858eb9d26da894082f597d840da1b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdbc313d9fa3bdca3113e92ade0305cd') in 0.045162 seconds
-  Import took 0.062900 seconds .
+  Time since last request: 22.872400 seconds.
+  path: Assets/AddNewNFTStart/Curator_ Selection (1).png
+  artifactKey: Guid(9d0d100e1ec5e2d49a7a8e2787ebfc46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddNewNFTStart/Curator_ Selection (1).png using Guid(9d0d100e1ec5e2d49a7a8e2787ebfc46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3a614d5ccf71b355ad908a6d1c75943') in 0.275714 seconds
+  Import took 0.296908 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001301 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.287 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1706 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 81.5 MB.
+System memory in use after: 81.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2197.
+Total: 1.961600 ms (FindLiveObjects: 0.156300 ms CreateObjectMapping: 0.056500 ms MarkObjects: 1.735100 ms  DeleteObjects: 0.013000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 145.127261 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(5830ae34835484482a366d73d6a56144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(5830ae34835484482a366d73d6a56144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34322271f2b330738a61b67c43acb0e6') in 0.045885 seconds
+  Import took 0.201713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.580592 seconds.
+  path: Assets/ScriptableClasses
+  artifactKey: Guid(2821f742cda693645b76ad314da2055c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableClasses using Guid(2821f742cda693645b76ad314da2055c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37699afdec58e8562045cbdb28ed3d25') in 0.031197 seconds
+  Import took 0.075646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.723092 seconds.
+  path: Assets/ScriptableClasses/UnityAsset.cs
+  artifactKey: Guid(215949c00a27be4498582598a8c47b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableClasses/UnityAsset.cs using Guid(215949c00a27be4498582598a8c47b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa1d8297d9a17b3f87fbc6b4fb855070') in 0.023223 seconds
+  Import took 0.030184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015791 seconds.
+  path: Assets/ScriptableClasses/UnityAsset.cs
+  artifactKey: Guid(215949c00a27be4498582598a8c47b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableClasses/UnityAsset.cs using Guid(215949c00a27be4498582598a8c47b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa1d8297d9a17b3f87fbc6b4fb855070') in 0.028386 seconds
+  Import took 0.062082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.314973 seconds.
+  path: Assets/_ScriptableObjects/NFTs
+  artifactKey: Guid(72f12c0781c18614e9808de1e81aa61c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_ScriptableObjects/NFTs using Guid(72f12c0781c18614e9808de1e81aa61c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7db7fa37e731acdbe3ccee13d0e324d') in 0.026517 seconds
+  Import took 0.030360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.991452 seconds.
+  path: Assets/_ScriptableObjects/NFTs/OrigNFTGallery
+  artifactKey: Guid(9454fc7b8987b194893f6946c2220a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_ScriptableObjects/NFTs/OrigNFTGallery using Guid(9454fc7b8987b194893f6946c2220a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '790fbd91ff8927fc7428b634e67946af') in 0.029154 seconds
+  Import took 0.032927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.782085 seconds.
+  path: Assets/_ScriptableObjects/NFTs/OrigNFTGallery/Dave Starbelly.asset
+  artifactKey: Guid(28a6171a98b6ad2439cfd2ecb3ec3758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_ScriptableObjects/NFTs/OrigNFTGallery/Dave Starbelly.asset using Guid(28a6171a98b6ad2439cfd2ecb3ec3758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '749526500e81470c9f33eed3540e140e') in 0.038261 seconds
+  Import took 0.041784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.441853 seconds.
+  path: Assets/_ScriptableObjects/NFTs/OrigNFTGallery/Dogs army #91.asset
+  artifactKey: Guid(7d14d24ed897d06408b2cd6ac17b84df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_ScriptableObjects/NFTs/OrigNFTGallery/Dogs army #91.asset using Guid(7d14d24ed897d06408b2cd6ac17b84df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a551a62b9a9b0c40e465cdd7d7586cf9') in 0.034056 seconds
+  Import took 0.054843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.005135 seconds.
+  path: Assets/_ScriptableObjects/NFTs/OrigNFTGallery/Data.asset
+  artifactKey: Guid(1a6c17a9a5c52e94d95a6c3d283bd931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_ScriptableObjects/NFTs/OrigNFTGallery/Data.asset using Guid(1a6c17a9a5c52e94d95a6c3d283bd931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d3b7d259dbffb0c2fc43ef4c57c4588') in 0.027463 seconds
+  Import took 0.034267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.579288 seconds.
+  path: Assets/ScriptableClasses/NFTGalleryItem.cs
+  artifactKey: Guid(919cfef4cef659b42816e41d93cba429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableClasses/NFTGalleryItem.cs using Guid(919cfef4cef659b42816e41d93cba429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fab50340bc2a13fc9904dc2d5836a368') in 0.026278 seconds
+  Import took 0.031683 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001499 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.154 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 81.9 MB.
+System memory in use after: 82.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2200.
+Total: 2.476200 ms (FindLiveObjects: 0.396100 ms CreateObjectMapping: 0.100600 ms MarkObjects: 1.948500 ms  DeleteObjects: 0.029000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 417.661776 seconds.
+  path: Assets/_ScriptableObjects/NFTs/Stratisphere/Stratisphere_NFTData
+  artifactKey: Guid(e76f1423b9f890e4098dc0e734621233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_ScriptableObjects/NFTs/Stratisphere/Stratisphere_NFTData using Guid(e76f1423b9f890e4098dc0e734621233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba13645968502c54da41e045ad1a0353') in 0.032783 seconds
+  Import took 0.339685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.153719 seconds.
+  path: Assets/__Scenes_Production/_Data.prefab
+  artifactKey: Guid(80de70861e99966448e04aa57b86f7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/__Scenes_Production/_Data.prefab using Guid(80de70861e99966448e04aa57b86f7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a038ebc4184313e2ca739a4de694c62') in 0.055231 seconds
+  Import took 0.059156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.360525 seconds.
+  path: Assets/_ScriptableObjects/NFTs/Stratisphere
+  artifactKey: Guid(53e4d74ab74f6e24a9f27be0fd7eb82c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_ScriptableObjects/NFTs/Stratisphere using Guid(53e4d74ab74f6e24a9f27be0fd7eb82c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62848416e99b4dd27878f7ce0cbdb999') in 0.030560 seconds
+  Import took 0.347825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.405360 seconds.
+  path: Assets/_ScriptableObjects/NFTs/Stratisphere/Stratisphere_NFTData/CHash_Monks_31.asset
+  artifactKey: Guid(437457e18696bb649b4a4f8156583aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_ScriptableObjects/NFTs/Stratisphere/Stratisphere_NFTData/CHash_Monks_31.asset using Guid(437457e18696bb649b4a4f8156583aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5629dd2331fd9a892eb8fe77d4764c0') in 0.033844 seconds
+  Import took 0.040514 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002989 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.040 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.1 MB.
+System memory in use after: 82.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2202.
+Total: 2.367800 ms (FindLiveObjects: 0.381800 ms CreateObjectMapping: 0.107800 ms MarkObjects: 1.829800 ms  DeleteObjects: 0.046800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 103.048007 seconds.
+  path: Assets/Asset Packages
+  artifactKey: Guid(3b9d5d763748bf6499a220b040aff577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset Packages using Guid(3b9d5d763748bf6499a220b040aff577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76844a00b3b2b23a2e4b7f4f12e15425') in 0.035872 seconds
+  Import took 0.039060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.973469 seconds.
+  path: Assets/NFT_Data
+  artifactKey: Guid(e2e72bdea11ec8c4890f0ec0d62a8969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NFT_Data using Guid(e2e72bdea11ec8c4890f0ec0d62a8969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8360346aeb8c5f8f2c71894d850c668a') in 0.031372 seconds
+  Import took 0.040708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001042 seconds.
+  path: Assets/NFT_Data
+  artifactKey: Guid(e2e72bdea11ec8c4890f0ec0d62a8969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NFT_Data using Guid(e2e72bdea11ec8c4890f0ec0d62a8969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8360346aeb8c5f8f2c71894d850c668a') in 0.058888 seconds
+  Import took 0.063698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.464919 seconds.
+  path: Assets/_ScriptableObjects/NFTs/Stratisphere_NFTData/COOGART_Sniraffes.asset
+  artifactKey: Guid(6c5cfafc5525a6e40959cbbfc4611df3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_ScriptableObjects/NFTs/Stratisphere_NFTData/COOGART_Sniraffes.asset using Guid(6c5cfafc5525a6e40959cbbfc4611df3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42e0e5258b605576a2a9ba799ba96d29') in 0.038377 seconds
+  Import took 0.069279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.449390 seconds.
+  path: Assets/_ScriptableObjects/NFTs/Stratisphere_NFTData/Guba_Cyborg.asset
+  artifactKey: Guid(91a499db716546a41a8a64bd28a3a168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_ScriptableObjects/NFTs/Stratisphere_NFTData/Guba_Cyborg.asset using Guid(91a499db716546a41a8a64bd28a3a168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e23c5c3a24932e486159a5d46e0d5f1') in 0.027168 seconds
+  Import took 0.031955 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001493 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.130 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 81.6 MB.
+System memory in use after: 81.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2204.
+Total: 2.484400 ms (FindLiveObjects: 0.178400 ms CreateObjectMapping: 0.110900 ms MarkObjects: 2.163400 ms  DeleteObjects: 0.030900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 144.451225 seconds.
+  path: Assets/AddNewNFTStart/ReadMe.cs
+  artifactKey: Guid(ed81b4f03543e624d8ad612b122fa1fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddNewNFTStart/ReadMe.cs using Guid(ed81b4f03543e624d8ad612b122fa1fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6f820a4c0e8bb7925ec6c48356d4613') in 0.030056 seconds
+  Import took 0.050278 seconds .
 

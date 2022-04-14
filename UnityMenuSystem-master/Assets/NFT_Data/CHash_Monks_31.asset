@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: CHash_Monks_31
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 'C Hash Monk | #31  '
+    externalUrl: https://stratisphere.com/asset/CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU/1237
+    image: https://stratispheremetadata.blob.core.windows.net/image/af370684d6f3edf8307ad3d5415b78c464b941a020fd8bff6c22cf01bf316174
+    name: 'C Hash Monk | #31  '
+  ContractHash: CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU
+  MarketURL: 
+  TokenID: 1237
+  NftType: 0
+  OwnerAddress: CePK9jwp2kCdSDHReMguumkzzcsgXZkSYs
+  Collection: 
+  Price: 250
+  Currency: CRS
+  TransactionCode: '{"eventId":"f73e565f-e15e-404f-a5c7-684285a977b8","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":250,"method":"Buy","parameters":[{"label":"Contract","value":"9#CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU"},{"label":"Token
+    Id","value":"12#1237"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=f73e565f-e15e-404f-a5c7-684285a977b8"}'
+  History:
+  - Event: Sold
+    SellerAddress: CQ2h1p8cqjCkbbN3yDc5wnJJRrZzG3w6eu
+    BuyerAdddress: CePK9jwp2kCdSDHReMguumkzzcsgXZkSYs
+    Price: 50
+    Currency: CRS

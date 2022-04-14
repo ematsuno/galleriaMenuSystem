@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Super_Mario_Bros_Corrupted
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 'The World of Super Mario Bros. Corrupted  '
+    externalUrl: https://stratisphere.com/asset/CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU/214
+    image: https://stratispheremetadata.blob.core.windows.net/image/e81da1aa224e9ea0daf470e01407f532b29c8bb52885931bd7bcfb3494ca5216
+    name: Super Mario Bros. Corrupted World
+  ContractHash: CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU
+  MarketURL: 
+  TokenID: 214
+  NftType: 0
+  OwnerAddress: CXAqeysb9QdJftbGPXu7D9oek7SqpgKbT5
+  Collection: 0
+  Price: 1250
+  Currency: CRS
+  TransactionCode: '{"eventId":"dc4dbf47-fa6e-4374-92b1-f242440339c8","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":1250,"method":"Buy","parameters":[{"label":"Contract","value":"9#CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU"},{"label":"Token
+    Id","value":"12#214"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=dc4dbf47-fa6e-4374-92b1-f242440339c8"}'
+  History:
+  - Event: Sold
+    SellerAddress: CcYYgUD2EG8zH9paT5oP8ZZzJw96T9t24T
+    BuyerAdddress: CXAqeysb9QdJftbGPXu7D9oek7SqpgKbT5
+    Price: 50
+    Currency: CRS

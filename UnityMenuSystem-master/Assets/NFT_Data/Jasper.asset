@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Jasper
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 'I''m Nirav Solanki a photographer for 25 years living in Long Beach,
+      California  '
+    externalUrl: https://stratisphere.com/asset/CbkeabNPAJAFMk1wpVvchi3L1PzYGXvR51/2
+    image: https://i.ibb.co/gDtby7x/Single-NFTs-14.jpg
+    name: Jasper
+  ContractHash: CbkeabNPAJAFMk1wpVvchi3L1PzYGXvR51
+  MarketURL: 
+  TokenID: 2
+  NftType: 0
+  OwnerAddress: CGr5vG1rSEAguWRsB2wk4r69gBmkSy7Zbz
+  Collection: Jasper
+  Price: 50
+  Currency: CRS
+  TransactionCode: '{"eventId":"209f3a3f-3da0-4708-9a25-b22d998fc031","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":50,"method":"Buy","parameters":[{"label":"Contract","value":"9#CbkeabNPAJAFMk1wpVvchi3L1PzYGXvR51"},{"label":"Token
+    Id","value":"12#2"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=209f3a3f-3da0-4708-9a25-b22d998fc031"}'
+  History: []

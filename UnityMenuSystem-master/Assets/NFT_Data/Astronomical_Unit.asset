@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Astronomical_Unit
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 'Coffee Galaxy R1 Art in a cup. NFT Light Year in Coffee Galaxy.  '
+    externalUrl: https://stratisphere.com/asset/CR7xfobSxBuw3y4inkZjzZYHathoLWNiLD/34
+    image: https://i.ibb.co/QPLXhz7/Astronomical-Unit-ID-34-Coffee-Galaxy-R1.jpg
+    name: 'Astronomical Unit '
+  ContractHash: CR7xfobSxBuw3y4inkZjzZYHathoLWNiLD
+  MarketURL: 
+  TokenID: 34
+  NftType: 0
+  OwnerAddress: CUy48NxmNXuUArGzqmSTw3mB4D6MHMRnKU
+  Collection: Astronomical Unit
+  Price: 999
+  Currency: CRS
+  TransactionCode: 
+  History: []

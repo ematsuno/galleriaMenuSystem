@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 215949c00a27be4498582598a8c47b1d, type: 3}
+  m_Name: 3DInteractiveKobsSlidersButtons
+  m_EditorClassIdentifier: 
+  itemType: 1
+  Key: 
+  Title: 3D Interactive Kobs Sliders Buttons
+  Summary: Cute Low Poly Cartoon Dog
+  Details: 'Add interactive controls into your game world.
+
+    Useful for:
+
+    -Gameplay
+    mechanics
+
+    -Settings menus
+
+    -Audio mixers
+
+    -Puzzles
+
+    -Machine
+    controls
+
+    -Editing gameplay parameters in a build
+
+    -Endless other possibilities!
+
+    What''s
+    included:
+
+    -High quality, commented code
+
+    -Listener components allowing
+    knobs and sliders to control transforms, mixer params and lights
+
+    -Knob,
+    slider and button prefabs that are ready to use
+
+    -Knob model with albedo
+    map and material
+
+    -Slider model with albedo map and material
+
+    -Button
+    model with albedo map and material
+
+    -Documentation PDF with three tutorials
+    on how to use each control type
+
+    -Three example scenes showing different
+    use cases
+
+    Features:
+
+    -All controls can be interacted with from any angle,
+    at any scale
+
+    -Range of motion and animation are controlled through code,
+    and are configurable in the inspector
+
+    -Knobs can be turned either by rotating
+    the mouse around them, or by draging the mouse up and down
+
+    -Knobs and sliders
+    can have a taper curve to change the mapping function between their position
+    and their output value
+
+    -Knobs, sliders and buttons can call Unity actions
+
+    -Knobs
+    and sliders can call listener scripts, either the included ones or custom ones
+    you create
+
+    -All controls are easily customizable by replacing their default
+    materials, textures or models
+
+    Model info:
+
+    Polycount:
+
+    Knob: 428
+    tris
+
+    Slider: 224 tris
+
+    Button: 480 tris
+
+    Texture resolution:
+
+    Knob:
+    1024x1024
+
+    Slider: 1024x1024
+
+    Button: 1024x1024
+
+    Compatibility:
+
+    Requires
+    Unity 2018.4.13f1 or higher'
+  Publisher: float_oat
+  Author: omabuarts@gmail.com
+  URL: https://shareasale.com/r.cfm?b=1272560&u=2708118&m=84042&urllink=sketchfab%2Ecom%2F3d%2Dmodels%2Foscar%2Dthe%2Ddog%2Dquirky%2Dseries%2Df44eb6c24974405eb2243d34d39324dd&afftrack=
+  VideoURL: 
+  SketchFabURL: https://shareasale.com/r.cfm?b=1272560&u=2708118&m=84042&urllink=sketchfab%2Ecom%2F3d%2Dmodels%2Foscar%2Dthe%2Ddog%2Dquirky%2Dseries%2Df44eb6c24974405eb2243d34d39324dd&afftrack=
+  DemoURL: 
+  AffiliateID: 
+  Price: 6.99
+  SalePrice: 6.99
+  galleryItemPreviewObjs:
+  - Name: Demo
+    Item: {fileID: 7990728376700301985, guid: a43a112f56e3eca4fa8289b0ba81269c, type: 3}
+    scaleFactor: 80
+    relativePosition: {x: 0, y: 46.38, z: 0}
+    isTouchEnabled: 1

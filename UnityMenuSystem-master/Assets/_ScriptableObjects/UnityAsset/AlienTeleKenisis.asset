@@ -1,0 +1,234 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 215949c00a27be4498582598a8c47b1d, type: 3}
+  m_Name: AlienTeleKenisis
+  m_EditorClassIdentifier: 
+  itemType: 1
+  Key: 
+  Title: Polygonal - Alien Telekinis
+  Summary: More than 300 game models for your game development. CLICK HERE to see
+    more on store list!
+  Details: 'If you like this pack, do check out other Polygonal assets in the store
+    list link provided above. You will find more similar assets that you can use
+    together with this asset. For eg:
+
+
+    Polygonal Fantasy Pack
+
+    Polygonal
+    Wings Pack
+
+    Polygonal Creatures Pack
+
+    Polygonal Aliens Pack
+
+    Polygonal
+    Skeletons Pack
+
+    Polygonal Robot Hermit
+
+    Polygonal Frightfly
+
+    and
+    more!
+
+
+    Polygonal Series 3D models are in faceted style and VR, AR friendly.
+    Textures are only 32 x 32 and assets remain clear when close up. It will be a
+    good addition to other faceted style environment packs.
+
+
+    Polygonal Series
+    Alien Telekinis
+
+
+    This pack contains Alien Telekinis A and Telekinis B. Telekinis
+    A has crown but Telekinis B doesn''t. You can use Telekinis A as a commander
+    and Telekinis B as a lower rank solider. Telekinis is a highly intelligent alien
+    species. They have a huge brain. They can use telekinesis to move things around,
+    mind control and to attack their opponents. These animations are included in
+    the package. You can create a interesting battle/gameplay with Telekinis''s special
+    abilities. They are rigged and animated.Textures are available in 3 colors. Telekinis
+    has 32 animations! Generic mecanim rig set up. Telekinis A has 1540 triangles
+    and Telekinis B has 1364 triangles.
+
+
+    Rock models, Unity FX Mist and Sparks
+    and skybox you see in the main image are included in this pack.
+
+
+    See videos
+    and images provided for model/animations preview.
+
+
+    Animations:
+
+    - Idle
+
+    -
+    Move forward slow with root motion
+
+    - Move forward slow without root motion
+
+    -
+    Move backward slow with root motion
+
+    - Move backward slow without root motion
+
+    -
+    Move forward fast with root motion
+
+    - Move forward fast without root motion
+
+    -
+    Move backward fast with root motion
+
+    - Move backward fast without root motion
+
+    -
+    Move right slow with root motion
+
+    - Move right slow without root motion
+
+    -
+    Move left slow with root motion
+
+    - Move left slow without root motion
+
+    -
+    Move right fast with root motion
+
+    - Move right fast without root motion
+
+    -
+    Move left fast with root motion
+
+    - Move left fast without root motion
+
+    -
+    Turn left
+
+    - Turn right
+
+    - Spawn from sky
+
+    - Fly away
+
+    - Projectile
+    attack 01
+
+    - Projectile attack 02
+
+    - Mind control
+
+    - Meditate
+
+    -
+    Telekinesis Lift and Slam
+
+    - Telekinesis Swing left
+
+    - Telekinesis Swing
+    right
+
+    - Telekinesis paralyze opponent
+
+    - Defend force field
+
+    - Take
+    damage
+
+    - Die
+
+
+    The demo scene is using these FREE unity assets:
+
+    -
+    Post Processing Stack
+
+
+    Only FBX and PNG are be provided in the package.
+    Additional fee is required for working files.
+
+
+    More than 300 game models
+    for your game development. CLICK HERE to see more!
+
+
+    Series list:
+
+    SUPER
+    SERIES
+
+    ACE SERIES
+
+    FANTASY PRO SERIES
+
+    POLYGONAL SERIES
+
+    CHIBI
+    SERIES
+
+    CUBE SERIES
+
+    SIMP SERIES
+
+    MEGA TOON SERIES
+
+    GALAXY SERIES
+
+    SPARKLE
+    SERIES
+
+    and more!'
+  Publisher: Meshtint Studio
+  Author: Meshtint Studio
+  URL: https://prf.hn/click/camref:1101l9tgp/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2F3d%2Fcharacters%2Fcreatures%2Fpolygonal-alien-telekinis-120257
+  VideoURL: https://www.youtube.com/watch?v=aJJof7Hy8lg&t=64s
+  VideoURLs:
+  - https://www.youtube.com/watch?v=aJJof7Hy8lg&t=64s
+  SketchFabURL: 
+  DemoURL: 
+  AffiliateID: 
+  Price: 8.9
+  SalePrice: 8.9
+  galleryItemPreviewObjs:
+  - Name: Alien A Blue
+    Item: {fileID: 1367487209626054, guid: f56d986a7a878694486580432fb980e4, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: -280, z: 0}
+    isTouchEnabled: 0
+  - Name: Alien A Purple
+    Item: {fileID: 1199986321729456, guid: 7468a91113835d74a885b1717e881939, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: -280, z: 0}
+    isTouchEnabled: 0
+  - Name: Alien A Red
+    Item: {fileID: 1881419036907834, guid: 63523f1f7130d2c459a5ebcea9348840, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: -280, z: 0}
+    isTouchEnabled: 0
+  - Name: Alien B Blue
+    Item: {fileID: 1020496567648438, guid: edaf8165ff3ef834ba1539106e6e65c7, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: -280, z: 0}
+    isTouchEnabled: 0
+  - Name: Alien B Purple
+    Item: {fileID: 1580402740567764, guid: 3fc9ac44ef5ebc1499aa5e3fa4c9cb77, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: -280, z: 0}
+    isTouchEnabled: 0
+  - Name: Alien B Red
+    Item: {fileID: 1332380423754414, guid: 70ee950fe690cf44bb8068a4c56fd14f, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: -280, z: 0}
+    isTouchEnabled: 0

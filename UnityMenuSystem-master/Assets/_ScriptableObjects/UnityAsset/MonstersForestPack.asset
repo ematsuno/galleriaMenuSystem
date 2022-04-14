@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 215949c00a27be4498582598a8c47b1d, type: 3}
+  m_Name: MonstersForestPack
+  m_EditorClassIdentifier: 
+  itemType: 1
+  Key: 
+  Title: Monsters Forest Pack
+  Summary: 25 Monsters Prefab
+  Details: '25 Monsters Prefab.
+
+
+    Flower Dryad 3842 Polygons.
+
+    Planta Kid
+    272 Polygons.
+
+    Planta Slave 452 Polygons
+
+    Planta Shadow 508 Polygons.
+
+    Planta
+    Geezer 540 Polygons.
+
+    Planta Queen 1100 Polygons.
+
+    Beez 492 Polygons.
+
+    Rabby
+    Young 484 Polygons.
+
+    Rabby 584 Polygons
+
+    Rabby Queen 891 Polygons.
+
+    Turnipa
+    496 Polygons.
+
+    Devil Tree 661 Polygons.
+
+
+    Flower Dryad Texture
+
+    Texture
+    Color 2048x204 Normal Map 1024x1024
+
+
+    Planta Texture
+
+    Texture Color 4096x4096
+    (x1) Normal Map 1024x1024
+
+
+    Beez Texture
+
+    Texture Color 2048x2048 (x3)
+    Normal Map 2048x2048
+
+
+    Rabby Texture
+
+    Texture Color 2048x2048 (x3) Normal
+    Map 1024x1024
+
+
+    Turnipa Texture
+
+    Texture Color 1024x1024 (x3) Normal
+    Map 512x512
+
+
+    Devil Tree Texture
+
+    Texture Color 2048x2048 (x4) Normal
+    Map 1024x1024
+
+
+    5 Animations.
+
+    Attack, Idle, Move, Damage, Die'
+  Publisher: SURIYUN
+  Author: SURIYUN
+  URL: https://prf.hn/click/camref:1101l9tgp/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2F3d%2Fcharacters%2Fcreatures%2Fmonsters-forest-pack-167364
+  VideoURL: https://www.youtube.com/watch?v=CLqy0X3vkT8
+  VideoURLs:
+  - https://www.youtube.com/watch?v=CLqy0X3vkT8
+  - https://youtu.be/TCTOSFyLfAg
+  - https://youtu.be/psWUFTr4JEg
+  - https://youtu.be/kDTrEnSDFG8
+  - https://youtu.be/m9XfNuf7UGg
+  - https://youtu.be/V1py1QX068Q
+  SketchFabURL: 
+  DemoURL: 
+  AffiliateID: 
+  Price: 39
+  SalePrice: 39
+  galleryItemPreviewObjs:
+  - Name: Beez Strawberry
+    Item: {fileID: 1386519982034378371, guid: 531692559fdde2747af9fcbae4a0d041, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: 0, z: 0}
+    isTouchEnabled: 0
+  - Name: Devil Tree
+    Item: {fileID: 3724572471564977762, guid: 3869ca982ead0c54688e41291e691359, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: 0, z: 0}
+    isTouchEnabled: 0
+  - Name: Flower Dryad
+    Item: {fileID: 2266157265114488493, guid: 2eb3f370fbc1c324abd3d85f109a0e09, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: 0, z: 0}
+    isTouchEnabled: 0
+  - Name: Planta Queen
+    Item: {fileID: 3929847272200089850, guid: 923e4b497ff08d748857ad558b1741e5, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: 0, z: 0}
+    isTouchEnabled: 0
+  - Name: Rabby Queen Green
+    Item: {fileID: 5886168729633978002, guid: f9e7274d1a640384a8a1f61fea555dd7, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: 0, z: 0}
+    isTouchEnabled: 0
+  - Name: Turnipa Sweet
+    Item: {fileID: 1319869897745625822, guid: e69dd2af53627174a95874b916927ee9, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: 0, z: 0}
+    isTouchEnabled: 0

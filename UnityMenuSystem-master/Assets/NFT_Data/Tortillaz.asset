@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Tortillaz
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: Tortillaz
+    externalUrl: https://stratisphere.com/asset/Cb8vYmArx87MQS2TeurRzLiBurvFT4ZTeL/102
+    image: https://ik.imagekit.io/2Breeze/tz_diamondhands_jfdojno3d.jpg
+    name: Tortillaz
+  ContractHash: Cb8vYmArx87MQS2TeurRzLiBurvFT4ZTeL
+  MarketURL: 
+  TokenID: 102
+  NftType: 0
+  OwnerAddress: CYdiEeGbgTmYPBbdpUpyAm3xDyEddEYMK5
+  Collection: Tortillaz
+  Price: 1250
+  Currency: CRS
+  TransactionCode: '{"eventId":"eef564b5-7e85-4aba-977d-b9b59879e626","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":1250,"method":"Buy","parameters":[{"label":"Contract","value":"9#Cb8vYmArx87MQS2TeurRzLiBurvFT4ZTeL"},{"label":"Token
+    Id","value":"12#102"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=eef564b5-7e85-4aba-977d-b9b59879e626"}'
+  History:
+  - Event: Sold
+    SellerAddress: CKUtS5AK6DM4CmkQVyskDPtNrXe8ZJ4Cy4
+    BuyerAdddress: CYdiEeGbgTmYPBbdpUpyAm3xDyEddEYMK5
+    Price: 125
+    Currency: CRS

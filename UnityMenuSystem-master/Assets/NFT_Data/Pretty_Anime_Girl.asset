@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Pretty_Anime_Girl
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 'Part of an original series created on https://medibangpaint.com/en/pc/  '
+    externalUrl: https://stratisphere.com/asset/CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU/309
+    image: https://stratispheremetadata.blob.core.windows.net/image/161e4a831fa9937506934954508696ea51ab8ace1b8e0afa313dfae24f029cf9
+    name: 'Pretty_Anime_Girl #3 '
+  ContractHash: CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU
+  MarketURL: 
+  TokenID: 309
+  NftType: 0
+  OwnerAddress: CKvQgUcrZyHNHE7PxNL1WzSu7jSn2iCh1v
+  Collection: 
+  Price: 25
+  Currency: CRS
+  TransactionCode: '{"eventId":"2016ae16-03df-45d5-b99d-b49f035a3bd9","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":25,"method":"Buy","parameters":[{"label":"Contract","value":"9#CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU"},{"label":"Token
+    Id","value":"12#309"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=2016ae16-03df-45d5-b99d-b49f035a3bd9"}'
+  History: []

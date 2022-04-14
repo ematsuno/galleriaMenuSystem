@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 215949c00a27be4498582598a8c47b1d, type: 3}
+  m_Name: Retro Arcade Machines Pack
+  m_EditorClassIdentifier: 
+  itemType: 1
+  Key: 
+  Title: 'Retro Arcade Machines Pack '
+  Summary: 
+  Details: 'Pack contains 5 unique arcade machines meshes with 11 variations:
+
+
+
+    -
+    Rainfall terrorists
+
+    - Gangster City
+
+    - 911vs666
+
+    - Turn Left Nascar
+
+    -
+    Super Rally
+
+    - Night Racer
+
+    - Moto Racing XXL
+
+    - Ultra Tetres
+
+    -
+    Night Blades
+
+    - Little Centurion
+
+    - Dance Lancers
+
+
+
+    - And 5 prefabs
+    with an example of custom branding.
+
+
+
+
+
+    Meshes contain from 500 to 1600
+    polygons and use the same set of textures:
+
+
+
+    Albedo (2048x2048 PNG)
+
+    MetallicSmoothness
+    (2048x2048 PNG)
+
+    Normal (2048x2048 PNG)
+
+    Emission (2048x2048 PNG)
+
+
+
+
+
+    Additional
+    features:
+
+
+
+    - Lightweight mobile-ready geometry
+
+    - CRT screens are have
+    separate meshes to simplify image overlay (such as a projector, animated texture,
+    etc.)
+
+    - To create your own branding, 5 photoshop projects are provided in
+    the PSD format.'
+  Publisher: 
+  Author: Alexander Ivlev
+  URL: https://prf.hn/click/camref:1101l9tgp/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2F3d%2Fprops%2Felectronics%2Fretro-arcade-machines-pack-183909
+  VideoURL: 
+  SketchFabURL: 
+  DemoURL: 
+  AffiliateID: 
+  Price: 8.99
+  SalePrice: 0
+  galleryItemPreviewObjs:
+  - Name: Dance Branding Example
+    Item: {fileID: 7191659564983099428, guid: c0e9c177f9277124687b8d1226847487, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: -200, z: 0}
+  - Name: Ultra Tetres
+    Item: {fileID: 3970134812109460068, guid: ef75b5c25e5406d4a81236fa3da93ef0, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: -200, z: 0}
+  - Name: Turn Left Nascat
+    Item: {fileID: 5101906682432916972, guid: 23effa771bdc6c24192ebab7d898479e, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: -200, z: 0}

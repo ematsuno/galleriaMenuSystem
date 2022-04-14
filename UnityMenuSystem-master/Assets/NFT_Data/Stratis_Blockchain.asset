@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Stratis_Blockchain
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: Art
+    externalUrl: https://stratisphere.com/asset/CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU/965
+    image: https://stratispheremetadata.blob.core.windows.net/image/5bda92bb56d0f64e7a926cde69983a246491ce3d66d8d806dc945133a93cc50d
+    name: 'Stratis Blockchain '
+  ContractHash: CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU
+  MarketURL: 
+  TokenID: 965
+  NftType: 0
+  OwnerAddress: CHMnQDZq93NQDTcXSZHCVbMygtTHPYdpiT
+  Collection: 
+  Price: 60
+  Currency: CRS
+  TransactionCode: '{"eventId":"6de1548c-8754-4c7a-92cf-50455194a612","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":60,"method":"Buy","parameters":[{"label":"Contract","value":"9#CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU"},{"label":"Token
+    Id","value":"12#965"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=6de1548c-8754-4c7a-92cf-50455194a612"}'
+  History: []

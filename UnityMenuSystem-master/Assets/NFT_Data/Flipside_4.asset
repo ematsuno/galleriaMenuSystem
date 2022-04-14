@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Flipside_4
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 'Flipside #4  '
+    externalUrl: https://stratisphere.com/asset/CW2XeJ7oSnLQtiwLL2YMmFzxcoK727KsTu/4
+    image: https://i.ibb.co/MhgBbFd/DSC-0048-copy.jpg
+    name: 'Flip Side '
+  ContractHash: CW2XeJ7oSnLQtiwLL2YMmFzxcoK727KsTu
+  MarketURL: 
+  TokenID: 4
+  NftType: 0
+  OwnerAddress: CGr5vG1rSEAguWRsB2wk4r69gBmkSy7Zbz
+  Collection: Flip Side
+  Price: 10
+  Currency: CRS
+  TransactionCode: '{"eventId":"1ef1d8b2-2a65-440a-915f-07730b8ce0e7","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":10,"method":"Buy","parameters":[{"label":"Contract","value":"9#CW2XeJ7oSnLQtiwLL2YMmFzxcoK727KsTu"},{"label":"Token
+    Id","value":"12#4"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=1ef1d8b2-2a65-440a-915f-07730b8ce0e7"}'
+  History: []

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Ober_8
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: Ober
+    externalUrl: https://stratisphere.com/asset/CSZzyKf6U54ZP3JFDH8XaQUhAYAvYY2mXW/8
+    image: https://i.ibb.co/Tm7nGr9/ober1.jpg
+    name: Ober
+  ContractHash: CSZzyKf6U54ZP3JFDH8XaQUhAYAvYY2mXW
+  MarketURL: 
+  TokenID: 8
+  NftType: 0
+  OwnerAddress: CGr5vG1rSEAguWRsB2wk4r69gBmkSy7Zbz
+  Collection: Ober
+  Price: 50
+  Currency: CRS
+  TransactionCode: '{"eventId":"14e41ad8-71b8-4928-930a-a092c59a2c3c","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":50,"method":"Buy","parameters":[{"label":"Contract","value":"9#CSZzyKf6U54ZP3JFDH8XaQUhAYAvYY2mXW"},{"label":"Token
+    Id","value":"12#8"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=14e41ad8-71b8-4928-930a-a092c59a2c3c"}'
+  History: []

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: C_Hash_Monks_1
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: C Hash Monks #1
+    externalUrl: https://stratisphere.com/asset/CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU/578
+    image: https://stratispheremetadata.blob.core.windows.net/image/6084d98628925be55bf62ec2accae6718184b18906a12ead27dcc6a4bc05e53d
+    name: 'C Hash Monks '
+  ContractHash: CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU
+  MarketURL: 
+  TokenID: 578
+  NftType: 0
+  OwnerAddress: CMRjBYtXBc8TY19T17HdAprGM6UjsXNULs
+  Collection: 
+  Price: 0
+  Currency: CRS
+  TransactionCode: 
+  History:
+  - Event: Sold
+    SellerAddress: CQ2h1p8cqjCkbbN3yDc5wnJJRrZzG3w6eu
+    BuyerAdddress: CMRjBYtXBc8TY19T17HdAprGM6UjsXNULs
+    Price: 20.02
+    Currency: CRS

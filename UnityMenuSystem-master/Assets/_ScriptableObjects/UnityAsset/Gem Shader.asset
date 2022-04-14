@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 215949c00a27be4498582598a8c47b1d, type: 3}
+  m_Name: Gem Shader
+  m_EditorClassIdentifier: 
+  itemType: 1
+  Key: 
+  Title: Gem Shader
+  Summary: Intelligent Race Driver System is a Race Game Toolkit that would help
+    you to develop your Racing Games.
+  Details: 'You can use this shader for gemstones such as diamonds and emeralds.
+    It''s perfect for shiny jewelry or pickups.
+
+    The shader has settings for
+    reflection strength and for lighting contribution from the environment and/or
+    from emission.'
+  Publisher: ' Jose Garrido'
+  Author: ' Jose Garrido'
+  URL: https://assetstore.unity.com/packages/vfx/shaders/gem-shader-3
+  VideoURL: 
+  SketchFabURL: 
+  DemoURL: 
+  AffiliateID: 
+  Price: 0
+  SalePrice: 0
+  galleryItemPreviewObjs:
+  - Name: Old Single Cut
+    Item: {fileID: 100000, guid: 87b70b92195974d9dacc05039e07b8cf, type: 3}
+    scaleFactor: 10000
+    relativePosition: {x: 0, y: 0, z: 0}
+  - Name: Pear Cut
+    Item: {fileID: 100002, guid: d89ce53ebd114a7011005aba44295342, type: 3}
+    scaleFactor: 10000
+    relativePosition: {x: 0, y: 0, z: 0}
+  - Name: Rose Cut
+    Item: {fileID: 100000, guid: 08563ec9bc5724f43a79b8a80c275cd3, type: 3}
+    scaleFactor: 10000
+    relativePosition: {x: 0, y: 0, z: 0}
+  - Name: Round Cut
+    Item: {fileID: 100000, guid: 5f22e3f6398904100923beb02c73de13, type: 3}
+    scaleFactor: 10000
+    relativePosition: {x: 0, y: 0, z: 0}

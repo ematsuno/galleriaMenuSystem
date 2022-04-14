@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: cyberverse
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 'cyberverse the cyberpunk city  '
+    externalUrl: https://stratisphere.com/asset/CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU/1532
+    image: https://stratispheremetadata.blob.core.windows.net/video/434c1dd02f671894ebdda05515fa08fad6586fc89c4e83892a29d987c7a76669
+    name: cyberverse
+  ContractHash: CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU
+  MarketURL: 
+  TokenID: 1532
+  NftType: 0
+  OwnerAddress: CXsRGxbr17Ttdg1SY4tD2tEavpmdp1xgfD
+  Collection: 
+  Price: 100
+  Currency: CRS
+  TransactionCode: '{"eventId":"f8ea3481-f000-4cf8-b217-f893e2d370f5","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":100,"method":"Buy","parameters":[{"label":"Contract","value":"9#CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU"},{"label":"Token
+    Id","value":"12#1532"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=f8ea3481-f000-4cf8-b217-f893e2d370f5"}'
+  History: []

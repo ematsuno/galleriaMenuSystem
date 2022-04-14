@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Venetian_mask_54
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 'Only 111 pcs. Different pictures of Venetian mask. from my own
+      pictures. #54  '
+    externalUrl: https://stratisphere.com/asset/CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU/1466
+    image: https://stratispheremetadata.blob.core.windows.net/image/80fe72c4b6906f53a9c1c3de32bd7fc74dee34f75936dac03ac013986ed3fcd2
+    name: 'Venetian mask will bring you luck. #54 '
+  ContractHash: CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU
+  MarketURL: 
+  TokenID: 1466
+  NftType: 0
+  OwnerAddress: CY6PHpkuNjeygFe4yyDZyVVCjVsNjrr76W
+  Collection: 
+  Price: 111
+  Currency: CRS
+  TransactionCode: '{"eventId":"20568ec4-c7bb-4e09-a7fb-c215d555ea53","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":111,"method":"Buy","parameters":[{"label":"Contract","value":"9#CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU"},{"label":"Token
+    Id","value":"12#1466"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=20568ec4-c7bb-4e09-a7fb-c215d555ea53"}'
+  History: []

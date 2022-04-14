@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 215949c00a27be4498582598a8c47b1d, type: 3}
+  m_Name: CyberPunk City. VR and Mobile
+  m_EditorClassIdentifier: 
+  itemType: 1
+  Key: 
+  Title: CyberPunk City. VR and Mobile
+  Summary: 
+  Details: "This asset is designed for VR and mobile projects. With it, it\u2019s
+    easy to modularly build an entire city. All elements are configured for modularity.
+    Installed collider. There are background skyscrapers. The average in models is
+    from 4 to 10 polygons. In a showcase scene, there are approximately 51.2k triangles.\r\nAlso
+    present in the project:\r\n-4 Atlas textures 2048\u04452048\r\n-111 prefabs"
+  Publisher: 
+  Author: Albert_Einsteinn
+  URL: https://prf.hn/click/camref:1101l9tgp/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2F3d%2Fenvironments%2Fcyberpunk-city-vr-and-mobile-152575
+  VideoURL: 
+  VideoURLs: []
+  SketchFabURL: 
+  DemoURL: 
+  AffiliateID: 
+  Price: 7.99
+  SalePrice: 0
+  galleryItemPreviewObjs:
+  - Name: 
+    Item: {fileID: 9201199648687145517, guid: c5157c14a68cbd84cbb18ef83d8be6fc, type: 3}
+    scaleFactor: 25
+    relativePosition: {x: 0, y: -500, z: 0}
+    isTouchEnabled: 0
+  - Name: 
+    Item: {fileID: 1835975801270731842, guid: 0fd803c8c8fcde740834afa51fde044a, type: 3}
+    scaleFactor: 25
+    relativePosition: {x: 0, y: -500, z: 0}
+    isTouchEnabled: 0

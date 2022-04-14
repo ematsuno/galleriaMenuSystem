@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Window_corgi_940
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 'Cute Snooze  '
+    externalUrl: https://stratisphere.com/asset/CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU/940
+    image: https://stratispheremetadata.blob.core.windows.net/image/ef7273da06485cdad954b8dc9d370bd981fbc134871848ede5620eb85f68d4bb
+    name: Window Corgi 58 Part B #940
+  ContractHash: CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU
+  MarketURL: 
+  TokenID: 940
+  NftType: 0
+  OwnerAddress: CeqNSVm8GRHptVdYKrFV8nZrpWLGSt3Mjq
+  Collection: 
+  Price: 1000000
+  Currency: CRS
+  TransactionCode: '{"eventId":"b1db0afd-759f-4796-b280-0faf9cef268d","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":1000000,"method":"Buy","parameters":[{"label":"Contract","value":"9#CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU"},{"label":"Token
+    Id","value":"12#940"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=b1db0afd-759f-4796-b280-0faf9cef268d"}'
+  History: []

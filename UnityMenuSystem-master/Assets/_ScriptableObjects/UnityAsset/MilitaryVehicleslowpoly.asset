@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 215949c00a27be4498582598a8c47b1d, type: 3}
+  m_Name: MilitaryVehicleslowpoly
+  m_EditorClassIdentifier: 
+  itemType: 1
+  Key: 
+  Title: Military Vehicles Low Poly
+  Summary: 
+  Details: 'In Lowpoly Miltary Vehicles you will find a very low poly vehicle collection.
+    Quad,combat plane, helicopter, motorbike, tank and hummer.
+
+    Each model has
+    12 2K textures , 6 base colors ( white,black,yellow,blue,red and gray) and 6
+    camouflage styles.( night,camouflage, city camouflage, sky camouflage, jungle
+    camouflage,desert camouflage ... 2 of each style) with specular maps.
+
+
+
+    Perfect
+    for a mobile game!
+
+    Preconfigured prefabs!
+
+
+
+    High quality textures!'
+  Publisher: 
+  Author: ' 8bull'
+  URL: https://prf.hn/click/camref:1101l9tgp/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2F3d%2Fvehicles%2Fland%2Fcyberpunk-cyber-car-115376
+  VideoURL: 
+  VideoURLs:
+  - https://youtu.be/eMCGwSBF4_4
+  - https://youtu.be/9u2o67jq5gw
+  SketchFabURL: 
+  DemoURL: 
+  AffiliateID: 
+  Price: 10
+  SalePrice: 10
+  galleryItemPreviewObjs:
+  - Name: Helico
+    Item: {fileID: 121248, guid: 81fd3f2a86fec9b40aefae2dd6e4a8ea, type: 3}
+    scaleFactor: 100
+    relativePosition: {x: 0, y: 0, z: 0}
+    isTouchEnabled: 0
+  - Name: Hummer Jungle 2
+    Item: {fileID: 1308138354666060, guid: 9d48881d0e11a3943b42c3ecd9e16e67, type: 3}
+    scaleFactor: 100
+    relativePosition: {x: 0, y: 0, z: 0}
+    isTouchEnabled: 0
+  - Name: Jetplane Night 2
+    Item: {fileID: 141554, guid: 1f5af3b8f5e7d8a479fa19496de3fd1b, type: 3}
+    scaleFactor: 100
+    relativePosition: {x: 0, y: 0, z: 0}
+    isTouchEnabled: 0
+  - Name: ' Tank Jungle 2'
+    Item: {fileID: 1301505044480998, guid: ff6e2f48a53de4d4199b74f053bb2eb4, type: 3}
+    scaleFactor: 100
+    relativePosition: {x: 0, y: 0, z: 0}
+    isTouchEnabled: 0

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Cool_Rich_Ape
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 'Rich Ape wearing hat, gold chain and gold monocle with smoking
+      cigar and strax logo.  '
+    externalUrl: https://stratisphere.com/asset/CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU/1506
+    image: https://stratispheremetadata.blob.core.windows.net/image/8a15076a432f7c141e87342cee11ffee96f5e6a71ef1c78c7227d7ef78a04940
+    name: 'Cool Rich Ape with Strax Logo '
+  ContractHash: CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU
+  MarketURL: 
+  TokenID: 1506
+  NftType: 0
+  OwnerAddress: CHjTbVshzzcN4yKUZUAxpNCmu9BUcz4ocN
+  Collection: 0
+  Price: 60
+  Currency: CRS
+  TransactionCode: '{"eventId":"241a5618-3bc7-428f-ba7f-5d52c25e8d44","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":60,"method":"Buy","parameters":[{"label":"Contract","value":"9#CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU"},{"label":"Token
+    Id","value":"12#1506"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=241a5618-3bc7-428f-ba7f-5d52c25e8d44"}'
+  History: []

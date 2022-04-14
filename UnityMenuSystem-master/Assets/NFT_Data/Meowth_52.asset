@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Meowth_52
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: Varsayalim design 151 unique Pokemon Origins characters with a geometric
+      and grafic aproach in Stratis blue.
+    externalUrl: https://stratisphere.com/asset/CLQkRt6wavaKHtEyRjnCN4CXqiL7N8QvKa/52
+    image: https://ik.imagekit.io/xeqyjdbumwq/60/052_lBu5FG-xN.JPG
+    name: Meowth
+  ContractHash: CLQkRt6wavaKHtEyRjnCN4CXqiL7N8QvKa
+  MarketURL: 
+  TokenID: 52
+  NftType: 0
+  OwnerAddress: CbMBUJABvmMsqNdNHkKYMCp6XNudfsEZuh
+  Collection: Pokemon Blue
+  Price: 75
+  Currency: CRS
+  TransactionCode: '{"eventId":"ddeb59a9-4db9-4cf4-afd2-6edb501c6f34","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":75,"method":"Buy","parameters":[{"label":"Contract","value":"9#CLQkRt6wavaKHtEyRjnCN4CXqiL7N8QvKa"},{"label":"Token
+    Id","value":"12#52"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=ddeb59a9-4db9-4cf4-afd2-6edb501c6f34"}'
+  History: []

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Guba Bear_33
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: Not For Sale
+    externalUrl: https://stratisphere.com/asset/CGcwcLoHF1RWVANXxMvds9osjPRaKWf71K/33
+    image: https://i.ibb.co/bb5yJKM/31-Skate.gif
+    name: 'Guba Bear '
+  ContractHash: CGcwcLoHF1RWVANXxMvds9osjPRaKWf71K
+  MarketURL: https://stratisphere.com/asset/CGcwcLoHF1RWVANXxMvds9osjPRaKWf71K/33
+  TokenID: 33
+  NftType: 0
+  OwnerAddress: CanQtTbERM6xhFxjn9rML71eM1kD26aY3s
+  Collection: Guba Bear
+  Price: 50
+  Currency: CRS
+  TransactionCode: 
+  History:
+  - Event: Sold
+    SellerAddress: CYb785z8qVRBGaanfxP8vuS2CYdA6f42PS
+    BuyerAdddress: CanQtTbERM6xhFxjn9rML71eM1kD26aY3s
+    Price: 50
+    Currency: CRS

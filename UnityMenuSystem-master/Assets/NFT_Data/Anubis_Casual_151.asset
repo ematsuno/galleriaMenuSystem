@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Anubis_Casual_151
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 'Anubis Casual  '
+    externalUrl: https://stratisphere.com/asset/CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU/131
+    image: https://stratispheremetadata.blob.core.windows.net/image/ff969eaa68ca538abb5131cc5b1dc6952b80c08d457cf9556a9bb1b9a60d69ce
+    name: Anubis Casual #131
+  ContractHash: CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU
+  MarketURL: 
+  TokenID: 131
+  NftType: 0
+  OwnerAddress: CHsEKN2qUL7qnnRx4e2ENmdw59ZQSKwagF
+  Collection: 
+  Price: 100
+  Currency: CRS
+  TransactionCode: '{"eventId":"41c66830-8f93-4f3b-8adf-03cfb95065cf","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":100,"method":"Buy","parameters":[{"label":"Contract","value":"9#CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU"},{"label":"Token
+    Id","value":"12#131"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=41c66830-8f93-4f3b-8adf-03cfb95065cf"}'
+  History: []

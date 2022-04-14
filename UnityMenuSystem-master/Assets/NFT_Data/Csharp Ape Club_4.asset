@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Csharp Ape Club_4
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: '4000 Csharp Apes  '
+    externalUrl: https://stratisphere.com/asset/CfYU88SjZT35gR6K5ZBN6kfMXSx6ABcBL5/4
+    image: https://i.ibb.co/0ZLyg4Y/7.png
+    name: 'Csharp Ape Club '
+  ContractHash: CfYU88SjZT35gR6K5ZBN6kfMXSx6ABcBL5
+  MarketURL: 
+  TokenID: 4
+  NftType: 0
+  OwnerAddress: CKLHm2sFYJfUATUCE8bd6yV2LwnL91qjbc
+  Collection: Csharp Ape Club
+  Price: 15
+  Currency: CRS
+  TransactionCode: sid:stratisphere.com/api/login/login-callback?uid=IBkeIqglxt7DeBEjadBuwLu1Cfx1PexQFX2nq6sg6nxQ9f8sXTVJr8lFhvUXlgRi&exp=1648837984
+  History: []

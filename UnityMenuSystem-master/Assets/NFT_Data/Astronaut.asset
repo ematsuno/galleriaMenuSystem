@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Astronaut
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 'Astronaut Placing The Stratis Flag On The Moon  '
+    externalUrl: https://stratisphere.com/asset/CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU/1239
+    image: https://stratispheremetadata.blob.core.windows.net/image/166347663c61440d5e7a9ffd4ca50b96802b2c5b666870a9fccdc1fac6607293
+    name: 'Stratis To The Moon '
+  ContractHash: CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU
+  MarketURL: 
+  TokenID: 1239
+  NftType: 0
+  OwnerAddress: CUtNzLRT2hFDE2XU4rdHaKHkNbi3g4n4ng
+  Collection: 
+  Price: 0
+  Currency: CRS
+  TransactionCode: 
+  History:
+  - Event: Sold
+    SellerAddress: CYTmroMQP7nbiJtzMPAWLjf8vXRY8ha9Cc
+    BuyerAdddress: CUtNzLRT2hFDE2XU4rdHaKHkNbi3g4n4ng
+    Price: 65
+    Currency: CRS

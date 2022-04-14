@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: 8COOGART_Anunnaki_8
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 'Annunaki Music Junkie Part of the Anninaki Collection  '
+    externalUrl: https://stratisphere.com/asset/Ca7JovitzmFjuMsD36N9piEsXgLwp2R9tp/8
+    image: https://i.ibb.co/m86MHhy/C06-FF62-E-DA73-463-A-9-AA8-7-E45-F63-E2433.jpg
+    name: 'COOGART : Anunnaki #8'
+  ContractHash: Ca7JovitzmFjuMsD36N9piEsXgLwp2R9tp
+  MarketURL: 
+  TokenID: 8
+  NftType: 0
+  OwnerAddress: CL1GuqpQ7uSLMwC25Jd7juRMQdCLjyXsrh
+  Collection: ' COOGART : Anunnaki'
+  Price: 250
+  Currency: CRS
+  TransactionCode: '{"eventId":"fb5b8eeb-9707-419f-8af4-3b68d9ec9f7d","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":250,"method":"Buy","parameters":[{"label":"Contract","value":"9#Ca7JovitzmFjuMsD36N9piEsXgLwp2R9tp"},{"label":"Token
+    Id","value":"12#8"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=fb5b8eeb-9707-419f-8af4-3b68d9ec9f7d"}'
+  History: []

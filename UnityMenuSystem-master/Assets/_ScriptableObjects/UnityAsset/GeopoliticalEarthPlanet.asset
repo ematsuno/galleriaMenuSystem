@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 215949c00a27be4498582598a8c47b1d, type: 3}
+  m_Name: GeopoliticalEarthPlanet
+  m_EditorClassIdentifier: 
+  itemType: 0
+  Key: 
+  Title: Geopolitical Earth Planet
+  Summary: 'Geopolitical Earth Planet is a 3D model of planet earth with 6 geo-political
+    layers:'
+  Details: 'Geopolitical Earth Planet is a 3D model of planet earth with 6 geo-political
+    layers: Photo, Population, Science, Transport, Risk, Climate and all World Countries.
+
+
+
+    Each
+    layer represents information corresponding to its name taken from open sources
+    in Wikipedia, and also has a corresponding visualization shader. Also, the earth
+    rotates in accordance with the time of year, taking into account the hours. You
+    can select different layers and see specific information at the selected point
+    on the earth. You can Select each Country and change all specific Data
+
+
+
+    Features:
+
+    -
+    Mesh Based Countries
+
+    - 6 Unique Info Layers
+
+    - Screen space shader for
+    Borders
+
+    - Well optimized shaders and data computing
+
+    - Intuitive, familiar
+    interface
+
+    - Full source-code, well commented and named
+
+    - Custom data
+    available for all layers and countries
+
+
+
+    This asset has 3 versions of shaders
+    for different render pipelines:
+
+    Built-in
+
+    URP
+
+    HDRP'
+  Publisher: cwk17
+  Author: cwk17
+  URL: https://prf.hn/click/camref:1101l9tgp/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2F3d%2Fenvironments%2Fgeopolitical-earth-planet-189702
+  VideoURL: https://www.youtube.com/watch?v=U7eZug5d92I
+  VideoURLs:
+  - https://www.youtube.com/watch?v=U7eZug5d92I
+  - https://youtu.be/9ZOdsvaBFeU
+  - https://youtu.be/mORTNE_JENA
+  SketchFabURL: 
+  DemoURL: 
+  AffiliateID: 
+  Price: 35
+  SalePrice: 35
+  galleryItemPreviewObjs:
+  - Name: 
+    Item: {fileID: 100012, guid: 4cca50b46e375734586a1cf77cb87a37, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: 0, z: 0}
+    isTouchEnabled: 0

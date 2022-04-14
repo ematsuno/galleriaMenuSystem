@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 215949c00a27be4498582598a8c47b1d, type: 3}
+  m_Name: LowPolyNaturePack
+  m_EditorClassIdentifier: 
+  itemType: 0
+  Key: 
+  Title: Z ! Low Poly Nature Pack
+  Summary: This asset is produced by Zomoss ! for building Low Poly style games easily.
+  Details: "This asset is produced by Zomoss ! for building Low Poly style games
+    easily.\r\nIt contains more than 300 plants, including all kinds of tropical
+    plants, subtropical plants, high-altitude trees, and various species like coconut
+    palm, banyan, pine, cedar, poplar, , plantain, wildflower, lotus, seaweed/kelp,
+    bread tree, cactus,dead tree, cherry blossom trees, phoenix tree, eucalyptus....\r\nThe
+    asset keeps developing always. We will renew it as soon as possible after receiving
+    your demand of plant model with similar styles.\r\nPack contains:\r\n\r\nGrass/flower/shrub/
+    benthophyte /coral: 106 types\r\n\r\nTrees\uFF1A180\r\nMushrooms: 20\r\nStone/Cliff/:55
+    groups\r\nGround: 26\r\nClouds: 8 groups\r\nTerrain: 2 groups"
+  Publisher: "Zomoss\uFF01"
+  Author: "Zomoss\uFF01"
+  URL: https://prf.hn/click/camref:1101l9tgp/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2F3d%2Fenvironments%2Ffantasy%2Fz-low-poly-nature-pack-144332
+  VideoURL: 
+  SketchFabURL: 
+  DemoURL: 
+  AffiliateID: 
+  Price: 15
+  SalePrice: 15
+  galleryItemPreviewObjs:
+  - Name: ZLPP Mushroom A 10
+    Item: {fileID: 1265916778585096, guid: 0a63e9cfdeb00e540b8e8cad27eca1bc, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: 0, z: 0}
+  - Name: ZLPP Plant A 2
+    Item: {fileID: 1548712480506018, guid: 8fb242a4374b58e43a053cfff22d02f1, type: 3}
+    scaleFactor: 100
+    relativePosition: {x: 0, y: -200, z: 0}
+  - Name: ZLPP ROck D 11
+    Item: {fileID: 1742131519782064, guid: 2cee4ed4c8d93e5499ecbb0cd02a945e, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: 0, z: 0}
+  - Name: ZLPP Plan 1 12
+    Item: {fileID: 1959831930548488, guid: 21a9b425a2f476d45b1be10d0860ff7f, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: 0, z: 0}
+  - Name: ZLPP Grass K 20
+    Item: {fileID: 1717272249053242, guid: 2c64cb28271c54b478a891b6b74f1fdd, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: 0, z: 0}
+  - Name: ZLPP Ground A 18
+    Item: {fileID: 1449829132052180, guid: 2713df261ee48774fb7a542cc6d17452, type: 3}
+    scaleFactor: 100
+    relativePosition: {x: 0, y: -200, z: 0}
+  - Name: ZLPP Plan I 03
+    Item: {fileID: 1328017349847902, guid: 5b4aab792f30ccf4886eac9588243823, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: -200, z: 0}
+  - Name: ZLPP Plant S 03
+    Item: {fileID: 1159094184554590, guid: 70b17a0ba52d8e14895611e4fa3b5019, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: -366, z: 0}
+  - Name: ZLPP Rock D 02
+    Item: {fileID: 1644593681378688, guid: 10de3c0726a04204c87b886b900cdda4, type: 3}
+    scaleFactor: 50
+    relativePosition: {x: 0, y: -100, z: 0}
+  - Name: ZLPP Rock D 11
+    Item: {fileID: 1742131519782064, guid: 2cee4ed4c8d93e5499ecbb0cd02a945e, type: 3}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: 0, z: 0}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Guba_Cyborg
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: Guba Bear
+    externalUrl: https://stratisphere.com/asset/CGcwcLoHF1RWVANXxMvds9osjPRaKWf71K/45
+    image: https://i.ibb.co/s9hbRXz/37-Cryborg.gif
+    name: Guba Cyborg
+  ContractHash: CGcwcLoHF1RWVANXxMvds9osjPRaKWf71K
+  MarketURL: 
+  TokenID: 45
+  NftType: 0
+  OwnerAddress: CYb785z8qVRBGaanfxP8vuS2CYdA6f42PS
+  Collection: Guba Bear
+  Price: 50
+  Currency: CRS
+  TransactionCode: '{"eventId":"42e24de7-5cd5-4c1b-8148-2d4a98751d1a","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":50,"method":"Buy","parameters":[{"label":"Contract","value":"9#CGcwcLoHF1RWVANXxMvds9osjPRaKWf71K"},{"label":"Token
+    Id","value":"12#45"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=42e24de7-5cd5-4c1b-8148-2d4a98751d1a"}'
+  History: []

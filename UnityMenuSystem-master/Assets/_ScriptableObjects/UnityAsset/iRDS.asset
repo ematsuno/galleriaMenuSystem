@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 215949c00a27be4498582598a8c47b1d, type: 3}
+  m_Name: iRDS
+  m_EditorClassIdentifier: 
+  itemType: 2
+  Key: 
+  Title: iRDS - Intelligent Race Driver System
+  Summary: Intelligent Race Driver System is a Race Game Toolkit that would help
+    you to develop your Racing Games.
+  Details: "\rThis is the core dll version, source code version can be found here
+    -> iRDS Pro\r\nUnity 5 Ready!\r\nuGUI Integration!\r\nIncludes 3 car models courtesy
+    of GameReady3D!\r\nNew Replay System and RCC and Rewired integration\r\n\r\nIntelligent
+    Race Driver System is a Race Game Toolkit that would help you to develop your
+    Racing Games. It includes an AI system to compete with human players and it's
+    own Car Physics(you dont need to buy another physics package), also this package
+    includes other features to make it easy to build your racing game (manage GUI,
+    settings, Camera control, etc.).\r\n\r\r\nBenefits:\r\n\u2022 Save tons of time,
+    don't need to code the AI\r\n\u2022 Start making your game directly, instead
+    of coding it!\r\n\u2022 Save money! you don't need to buy another Car Physics
+    Package!\r\n\r\nFeatures included in this version:\r\n\r\n\u2022 Compatible with
+    Edy\u2019s Car Physics, UnityCar, Randomation and Realistic Car Controller out
+    of the box, compatible with any other car physics with some mod to the included
+    Vehicle physics interfaces scripts\r\n\u2022 AI steering\r\n\u2022 Breaking\r\n\u2022
+    Overtake\r\n\u2022 Breaking if opponent is in front\r\n\u2022 Collision prevention
+    - if opponents on sides\r\n\u2022 Track limits (left and right limits of the
+    track)\r\n\u2022 Different AI behavior\r\n\u2022 Pitting\r\n\u2022 Counter steering
+    if the car drifts\r\n\u2022 Compatible with Easyroads, the system creates the
+    track limits from the EasyRoads marker\r\n\u2022 Racing line\r\n\u2022 Grid positions\r\n\u2022
+    pit line\r\n\u2022 Force Feedback compatible\r\n\u2022 New suspension system!
+    (MacPherson & Double Wishbone)\r\n\u2022 More realistic car physics\r\n\u2022
+    Mobile Touch Controls! (Including Touch Steering)\r\n\u2022 Includes Gear Shifter
+    compatibility!\r\n\u2022 New Sounds manager options for AAA sounds!!!!\r\n\u2022
+    Different race types (Circuit, Sprint, Knockout, Checkpoints, Speed Trap and
+    Capture the flag)\r\n\u2022 Road cameras position (for using on road camera view
+    mode)\r\n\r\r\nOfficially Tested on:\r\n\r\n| WebGL | Mac | iOS | Windows | Windows
+    Phone | Web Player | Linux | Android |"
+  Publisher: ' Jose Garrido'
+  Author: ' Jose Garrido'
+  URL: https://assetstore.unity.com/packages/templates/systems/irds-intelligent-race-driver-system-7294?
+  VideoURL: https://youtu.be/Bp2qlqZYMyM
+  VideoURLs:
+  - https://youtu.be/Bp2qlqZYMyM
+  - https://youtu.be/2UELOck3H_0
+  - https://youtu.be/kN0u9vhtuh8
+  SketchFabURL: 
+  DemoURL: https://polycarbongames.itch.io/irds-promo
+  AffiliateID: 
+  Price: 85
+  SalePrice: 42.5
+  galleryItemPreviewObjs:
+  - Name: 
+    Item: {fileID: 0}
+    scaleFactor: 200
+    relativePosition: {x: 0, y: 0, z: 0}
+    isTouchEnabled: 0

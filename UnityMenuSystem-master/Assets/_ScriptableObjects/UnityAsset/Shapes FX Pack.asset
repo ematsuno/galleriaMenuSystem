@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 215949c00a27be4498582598a8c47b1d, type: 3}
+  m_Name: Shapes FX Pack
+  m_EditorClassIdentifier: 
+  itemType: 1
+  Key: 
+  Title: Shapes FX Pack
+  Summary: 
+  Details: "Pack of Shapes FXs for your sci-fi \nGames (environment, Gameplay, etc.)\r\n\r\n\u200B\u200B\r\n\r\n\u200BShader/Material
+    with exposed parameters (with custom GUI on Unity).\r\n\r\n15 Geometry Models
+    (HiRez / LowRez / Hex Faces).\r\n\r\n+50 instances with a Really Awesome and
+    good looking settings.\r\n\r\nEndless Possibilities.\r\n\r\nGood Performances.\r\n\r\nDynamic
+    Target Influencer.\r\n\u200BTextures and materials for each example are included.\r\n\r\n\u200BFeel
+    free to change Values on each example to acheive a new look or behavior.\r\n\r\n"
+  Publisher: 
+  Author: Oranged Keys
+  URL: https://prf.hn/click/camref:1101l9tgp/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2Fvfx%2Fshaders%2Fshapes-fx-pack-156638
+  VideoURL: 
+  SketchFabURL: 
+  DemoURL: 
+  AffiliateID: 
+  Price: 19.99
+  SalePrice: 0
+  galleryItemPreviewObjs:
+  - Name: Geo Cube
+    Item: {fileID: 7939679155286114601, guid: da77138f6ac1d4348b73e076774f74b6, type: 3}
+    scaleFactor: 20000
+    relativePosition: {x: 0, y: 0, z: 0}
+  - Name: Geo Octahedron Hex
+    Item: {fileID: 2505582998066526010, guid: 58ed9bf9542e7dc46b9c8e6db24cdc6a, type: 3}
+    scaleFactor: 20000
+    relativePosition: {x: 0, y: 0, z: 0}
+  - Name: Geo Sphere Hi
+    Item: {fileID: 5211374125729988209, guid: a5d52cfd31a5c18439654ad185e2eeee, type: 3}
+    scaleFactor: 20000
+    relativePosition: {x: 0, y: 0, z: 0}

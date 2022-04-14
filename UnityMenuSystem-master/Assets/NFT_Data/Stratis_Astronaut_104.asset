@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Stratis_Astronaut_104
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 'No matter how hard The task may seem Don''t give up our plans Don''t
+      give up our dreams.  '
+    externalUrl: https://stratisphere.com/asset/CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU/104
+    image: https://stratispheremetadata.blob.core.windows.net/image/9975f7c1ed3a7a9f2d5e0fa9efdd181fdcb8650c0808209c54ed2fb7aa108244
+    name: 'Stratis Astronaut '
+  ContractHash: CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU
+  MarketURL: 
+  TokenID: 104
+  NftType: 0
+  OwnerAddress: CNRVkNJG3uvqwYoPLqkzed7NNW12f569Da
+  Collection: 
+  Price: 500
+  Currency: CRS
+  TransactionCode: '{"eventId":"e3433c0e-593f-484a-8ddd-acd1602f4c9f","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":500,"method":"Buy","parameters":[{"label":"Contract","value":"9#CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU"},{"label":"Token
+    Id","value":"12#104"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=e3433c0e-593f-484a-8ddd-acd1602f4c9f"}'
+  History: []

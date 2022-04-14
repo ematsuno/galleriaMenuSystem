@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Cirrus Gobblins _1252
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 'Cirrus Gobblins is a collection of 10 000 generated cats ands Vases.  '
+    externalUrl: https://stratisphere.com/asset/CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU/1252
+    image: https://stratispheremetadata.blob.core.windows.net/image/270c10fa4ea72e68bf2893454317615bd6e400a86a060ed36e32a96f6ef5f4f8
+    name: Cirrus Gobblins #16
+  ContractHash: CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU
+  MarketURL: 
+  TokenID: 1252
+  NftType: 0
+  OwnerAddress: CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT
+  Collection: 
+  Price: 0
+  Currency: CRS
+  TransactionCode: 
+  History:
+  - Event: Sold
+    SellerAddress: CHMnQDZq93NQDTcXSZHCVbMygtTHPYdpiT
+    BuyerAdddress: CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT
+    Price: 4
+    Currency: CRS

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 215949c00a27be4498582598a8c47b1d, type: 3}
+  m_Name: Cat Witch
+  m_EditorClassIdentifier: 
+  itemType: 0
+  Key: 
+  Title: Cat Witch - #WitchChallenge
+  Summary: 
+  Details: "A cute feline witch for Alice Jaunet @ cozywire\u2019s Twitter challenge."
+  Publisher: 
+  Author: Omabuarts Studio
+  URL: https://shareasale.com/r.cfm?b=1272560&u=2708118&m=84042&urllink=sketchfab%2Ecom%2F3d%2Dmodels%2Fcat%2Dwitch%2Dwitchchallenge%2De04e6b75e8f64a618f6753eb56a98182&afftrack=
+  VideoURL: 
+  SketchFabURL: https://shareasale.com/r.cfm?b=1272560&u=2708118&m=84042&urllink=sketchfab%2Ecom%2F3d%2Dmodels%2Fcat%2Dwitch%2Dwitchchallenge%2De04e6b75e8f64a618f6753eb56a98182&afftrack=
+  DemoURL: 
+  AffiliateID: 
+  Price: 29
+  SalePrice: 0
+  galleryItemPreviewObjs:
+  - Name: 
+    Item: {fileID: 6162093835635749517, guid: 2184f513ab835d54fb52aaf7d0af0510, type: 3}
+    scaleFactor: 200

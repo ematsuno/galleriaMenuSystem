@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919cfef4cef659b42816e41d93cba429, type: 3}
+  m_Name: Starry_Anime_Girl
+  m_EditorClassIdentifier: 
+  NFTItem:
+    description: 'This is an original character I drew on https://medibangpaint.com/en/pc/  '
+    externalUrl: https://stratispheremetadata.blob.core.windows.net/image/451bbd0fd901eab77e9a171ded7e6d24c371e5438f81101b0a7f045fa3f190db
+    image: https://stratispheremetadata.blob.core.windows.net/image/451bbd0fd901eab77e9a171ded7e6d24c371e5438f81101b0a7f045fa3f190db
+    name: Starry Anime Girl
+  ContractHash: CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU
+  MarketURL: 
+  TokenID: 285
+  NftType: 0
+  OwnerAddress: CKvQgUcrZyHNHE7PxNL1WzSu7jSn2iCh1v
+  Collection: 
+  Price: 45
+  Currency: CRS
+  TransactionCode: '{"eventId":"5224605c-f8de-4292-97ca-dce7cc782347","sender":"CQhXGznZAgq9cd2T5QRXUfzy6dfptAhJyT","to":"CMNFipTCPS6DoJ8RBEEzQ8qnCxhZRqZGKf","amount":45,"method":"Buy","parameters":[{"label":"Contract","value":"9#CGoZkuYEc3AjUmYhHyzZ1iYyHjqEhUsCKU"},{"label":"Token
+    Id","value":"12#285"}],"callback":"https://stratisphere.com/api/contract/on-sold?userId=998ca258-3262-4cf5-a427-cb2479a3c247&eventId=5224605c-f8de-4292-97ca-dce7cc782347"}'
+  History: []
