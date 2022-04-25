@@ -63,13 +63,13 @@ public class DataManager : MonoBehaviour
                 Debug.Log(" " + split[split.Length - 2] + " " + split[split.Length - 1]);
                 tokenIDInput.text = split[split.Length - 1];
                 contactIdInput.text = split[split.Length - 2];
-                if (PlayerPrefs.HasKey(split[split.Length - 1]))
+                if (PlayerPrefs.HasKey(contactIdInput.text))
                 {
                     Debug.Log("Already Added");
                     ShowPopMsg("Already Added");
                     return;
                 }
-                PostData(split[split.Length - 2], split[split.Length - 1]);
+                PostData(contactIdInput.text, tokenIDInput.text);
 
             }
         }
@@ -123,7 +123,8 @@ public class DataManager : MonoBehaviour
     {
         var obj = ScriptableObject.CreateInstance<AddingNFT>();
         obj.data = data;
-        AssetDatabase.CreateAsset(obj, "Assets/AddNewNFTStart/NFTs/" + data.name + ".asset");
+        Debug.Log(data.name);
+        AssetDatabase.CreateAsset(obj, "Assets/AddNewNFTStart/NFTs/" + data.name.Trim() + ".asset");
         //AssetDatabase.getas
         AssetDatabase.SaveAssets();
         AssetDatabase.Refresh();
